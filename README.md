@@ -29,4 +29,4 @@ Projekt będzie wykorzystywał nowoczesne technologie i narzędzia programistycz
 
 ## Znaczenie projektu
 SwiftFuelSpotOn ma potencjał, by znacząco wpłynąć na rynek stacji paliw, oferując użytkownikom wygodę i oszczędność czasu, a właścicielom stacji - efektywne narzędzia zarządzania i analizy. Projekt stanowi cenne doświadczenie dla studentów Inżynierii Oprogramowania, dając możliwość pracy nad realistycznym i kompleksowym zadaniem projektowym.
-By Maciej Klimuk and Szymon Florek
+### By Maciej Klimuk and Szymon Florek
