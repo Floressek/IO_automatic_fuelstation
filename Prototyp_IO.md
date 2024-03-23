@@ -1,4 +1,4 @@
-SwiftFuelSpotOn
+###SwiftFuelSpotOn
 
 Jako osoba zamawiająca, pragnę zlecić zbudowanie kompleksowego systemu informatycznego dla mojej nowo powstałej firmy, która specjalizuje się w zarządzaniu siecią bezobsługowych stacji paliw. System ten powinien zapewnić efektywne i innowacyjne rozwiązania zarówno dla naszych klientów, jak i dla wewnętrznej struktury zarządzania stacjami paliw. 
 
@@ -78,7 +78,7 @@ Projekt musi również zawierać szczegółowy plan wdrożenia systemu, w tym ha
 
 W odpowiedzi na to zapytanie oczekujemy od oferentów przedstawienia wstępnych koncepcji rozwiązania, w tym wykorzystywanych technologii, planu projektu, szacunkowych kosztów realizacji oraz portfolio realizowanych dotychczas projektów, szczególnie tych o podobnym stopniu złożoności i innowacyjności.
 
-"FuelFuture" jest zobowiązane do prowadzenia działalności w sposób zrównoważony i odpowiedzialny, dlatego oczekujemy, że proponowane rozwiązania będą odzwierciedlały te wartości, zapewniając wysoką jakość usług przy jednoczesnym minimalizowaniu negatywnego wpływu na środowisko.
+"SwiftFuelSpotOn" jest zobowiązane do prowadzenia działalności w sposób zrównoważony i odpowiedzialny, dlatego oczekujemy, że proponowane rozwiązania będą odzwierciedlały te wartości, zapewniając wysoką jakość usług przy jednoczesnym minimalizowaniu negatywnego wpływu na środowisko.
 
 Z niecierpliwością oczekujemy na propozycje, które pomogą nam zrealizować naszą wizję stacji paliw przyszłości - bezpiecznych, wygodnych i przyjaznych dla środowiska. "FuelFuture" jest gotowe do współpracy z partnerem, który podziela naszą pasję do innowacji i dąży do doskonałości w każdym aspekcie działalności.
 
