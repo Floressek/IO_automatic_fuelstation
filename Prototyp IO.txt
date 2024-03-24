@@ -26,7 +26,7 @@ bez potrzeby interakcji z personelem.
 4. Moduł bezpieczeństwa monitorujący stacje pod kątem potencjalnych awarii, wycieków oraz nieautoryzowanego dostępu.
 5. Integracja z systemami alarmowymi i powiadomieniami awaryjnymi, zapewniająca szybką reakcję na incydenty.
 6. Zarządzanie zużyciem energii: Optymalizacja zużycia energii na stacjach poprzez inteligentne zarządzanie oświetleniem, pompami i innymi urządzeniami,
-co przyczynia się do obniżenia kosztów operacyjnych i wsparcia inicjatyw ekologicznych.
+   co przyczynia się do obniżenia kosztów operacyjnych i wsparcia inicjatyw ekologicznych.
 
 ### Wymagania Techniczne
 1. System powinien być oparty na architekturze mikrousług, z wykorzystaniem najnowszych technologii cloud computing.
