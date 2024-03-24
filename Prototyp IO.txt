@@ -1,4 +1,9 @@
-Zamawiający, czyli firma "FuelFuture", będąca liderem w branży nowoczesnych technologii paliwowych, poszukuje wykonawcy do zaprojektowania i wdrożenia kompleksowego systemu informatycznego dla naszej nowej sieci bezobsługowych stacji paliw. System ten ma na celu automatyzację wszystkich procesów związanych z obsługą klientów oraz zarządzaniem wewnętrznymi zasobami firmy. Nasza wizja zakłada stworzenie nowej jakości usług w sektorze stacji paliw, gdzie klienci mogą korzystać z naszych usług w pełni automatycznie, bez potrzeby interakcji z personelem.
+Zamawiający, czyli firma "FuelFuture", będąca liderem w branży nowoczesnych technologii paliwowych, 
+poszukuje wykonawcy do zaprojektowania i wdrożenia kompleksowego systemu informatycznego dla naszej nowej sieci bezobsługowych stacji paliw.
+System ten ma na celu automatyzację wszystkich procesów związanych z obsługą klientów oraz zarządzaniem wewnętrznymi zasobami firmy.
+Nasza wizja zakłada stworzenie nowej jakości usług w sektorze stacji paliw,
+gdzie klienci mogą korzystać z naszych usług w pełni automatycznie,
+bez potrzeby interakcji z personelem.
 
 ### Moduł Obsługi Klienta
 1. Aplikacja mobilna umożliwiająca lokalizowanie najbliższych stacji, rezerwację dystrybutorów i dokonywanie płatności.
