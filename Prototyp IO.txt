@@ -28,6 +28,8 @@ bez potrzeby interakcji z personelem.
 5. Integracja z systemami alarmowymi i powiadomieniami awaryjnymi, zapewniająca szybką reakcję na incydenty.
 6. Zarządzanie zużyciem energii: Optymalizacja zużycia energii na stacjach poprzez inteligentne zarządzanie oświetleniem, pompami i innymi urządzeniami,
    co przyczynia się do obniżenia kosztów operacyjnych i wsparcia inicjatyw ekologicznych.
+7. Integracja z Google Ads dla spersonalizowanych reklam: Wykorzystanie danych z Google Ads przy podjeździe klienta do stacji, umożliwiające 
+   wyświetlanie spersonalizowanych reklam na ekranach stacji na podstawie historii wyszukiwania i preferencji, zwiększając skuteczność kampanii reklamowych.
 
 ### Wymagania Techniczne
 1. System powinien być oparty na architekturze mikrousług, z wykorzystaniem najnowszych technologii cloud computing.
