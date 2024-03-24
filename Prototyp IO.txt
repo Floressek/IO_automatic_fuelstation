@@ -25,7 +25,7 @@ bez potrzeby interakcji z personelem.
 3. System zarządzania zapasami i automatyczne zamawianie paliwa w oparciu o przewidywane zapotrzebowanie.
 4. Moduł bezpieczeństwa monitorujący stacje pod kątem potencjalnych awarii, wycieków oraz nieautoryzowanego dostępu.
 5. Integracja z systemami alarmowymi i powiadomieniami awaryjnymi, zapewniająca szybką reakcję na incydenty.
-6.Zarządzanie zużyciem energii: Optymalizacja zużycia energii na stacjach poprzez inteligentne zarządzanie oświetleniem, pompami i innymi urządzeniami,
+6. Zarządzanie zużyciem energii: Optymalizacja zużycia energii na stacjach poprzez inteligentne zarządzanie oświetleniem, pompami i innymi urządzeniami,
 co przyczynia się do obniżenia kosztów operacyjnych i wsparcia inicjatyw ekologicznych.
 
 ### Wymagania Techniczne
