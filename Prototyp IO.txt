@@ -31,7 +31,8 @@ Jako osoba zamawiająca, pragnę zlecić zbudowanie kompleksowego systemu inform
 
 Projekt ten wymaga zespołu doświadczonych programistów, analityków systemowych oraz ekspertów ds. UX/UI, aby stwor
 
-++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Version 2:
 Nazwijmy naszą bezobsługową stację paliw "FuelFuture". Oto treść zamówienia na system informatyczny dla "FuelFuture":
 
 ---
