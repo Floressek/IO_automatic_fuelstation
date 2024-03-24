@@ -1,7 +1,9 @@
-# SwiftFuelSpotOn
+# PSO
 
 ## Opis projektu
-Projekt SwiftFuelSpotOn ma na celu stworzenie zaawansowanego modelu systemu informatycznego dla bezobsługowych stacji paliw, skoncentrowanego na automatyzacji procesów obsługi klienta i zarządzania wewnętrzną infrastrukturą. Przygotowany jako projekt na laboratorium z Inżynierii Oprogramowania, model ten ma służyć jako podstawa dla potencjalnej realizacji w przyszłości.
+Projekt PSO ma na celu stworzenie zaawansowanego modelu systemu informatycznego dla bezobsługowych stacji paliw, skoncentrowanego na automatyzacji 
+procesów obsługi klienta i zarządzania wewnętrzną infrastrukturą. Przygotowany jako projekt na laboratorium z Inżynierii Oprogramowania, model ten 
+ma służyć jako podstawa dla potencjalnej realizacji w przyszłości.
 
 ## Cele projektu
 - Opracowanie modelu systemu umożliwiającego klientom lokalizację stacji, rezerwację dystrybutorów i dokonywanie płatności za paliwo za pomocą aplikacji mobilnej.
@@ -28,5 +30,6 @@ Projekt będzie wykorzystywał nowoczesne technologie i narzędzia programistycz
 - Integracja systemu z zewnętrznymi dostawcami usług płatniczych i logistycznych.
 
 ## Znaczenie projektu
-SwiftFuelSpotOn ma potencjał, by znacząco wpłynąć na rynek stacji paliw, oferując użytkownikom wygodę i oszczędność czasu, a właścicielom stacji - efektywne narzędzia zarządzania i analizy. Projekt stanowi cenne doświadczenie dla studentów Inżynierii Oprogramowania, dając możliwość pracy nad realistycznym i kompleksowym zadaniem projektowym.
+PSO ma potencjał, by znacząco wpłynąć na rynek stacji paliw, oferując użytkownikom wygodę i oszczędność czasu, a właścicielom stacji - efektywne narzędzia zarządzania i analizy. 
+Projekt stanowi cenne doświadczenie dla studentów Inżynierii Oprogramowania, dając możliwość pracy nad realistycznym i kompleksowym zadaniem projektowym.
 ### By Maciej Klimuk and Szymon Florek
