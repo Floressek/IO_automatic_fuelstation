@@ -17,8 +17,7 @@ bez potrzeby interakcji z personelem.
    może pomóc w poprawie standardów oraz zwiększyć zaufanie klientów poprzez transparentność.
 9. Wirtualny asystent AI do wsparcia klienta: Integracja chatbota wykorzystującego sztuczną inteligencję, który 
    będzie w stanie na bieżąco odpowiadać na pytania użytkowników i pomagać w rozwiązywaniu problemów.
-10. Funkcjonalność umożliwiającą użytkownikom wybór preferowanej metody tankowania: zautomatyzowanej,
-   z użyciem robota do tankowania,
+10. Funkcjonalność umożliwiającą użytkownikom wybór preferowanej metody tankowania: zautomatyzowanej, z użyciem robota do tankowania,
    lub tradycyjnej, gdzie klient samodzielnie tankuje pojazd.
 
 ### Moduł Zarządzania Stacją (Zewnętrzne)
