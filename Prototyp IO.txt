@@ -12,6 +12,10 @@ bez potrzeby interakcji z personelem.
 4. Personalizacja usług poprzez analizę historii tankowań i preferencji użytkowników, oferowanie spersonalizowanych promocji.
 5. Interaktywne kioski do samoobsługowej płatności dla klientów nieposiadających aplikacji.
 6. System wsparcia klienta zintegrowany z aplikacją, umożliwiający szybkie rozwiązywanie problemów i pytania użytkowników.
+7.Zarządzanie zużyciem energii: Optymalizacja zużycia energii na stacjach poprzez inteligentne zarządzanie oświetleniem, pompami i innymi urządzeniami,
+co przyczynia się do obniżenia kosztów operacyjnych i wsparcia inicjatyw ekologicznych.
+8. Zaawansowane metody uwierzytelniania, Wprowadzenie biometrycznych metod uwierzytelniania
+
 
 ### Moduł Zarządzania Stacją (Zewnętrzne)
 1. Panel zarządzania dla operatorów stacji umożliwiający monitorowanie i kontrolę stanu dystrybutorów, poziomu paliw w zbiornikach i danych transakcyjnych.
