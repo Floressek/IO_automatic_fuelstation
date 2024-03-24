@@ -12,10 +12,12 @@ bez potrzeby interakcji z personelem.
 4. Personalizacja usług poprzez analizę historii tankowań i preferencji użytkowników, oferowanie spersonalizowanych promocji.
 5. Interaktywne kioski do samoobsługowej płatności dla klientów nieposiadających aplikacji.
 6. System wsparcia klienta zintegrowany z aplikacją, umożliwiający szybkie rozwiązywanie problemów i pytania użytkowników.
-7. Możliwość oceniania usług przez użytkowników: Umożliwienie klientom oceniania jakości usług i poszczególnych stacji, co 
+7. Zaawansowane metody uwierzytelniania, Wprowadzenie biometrycznych metod uwierzytelniania
+8. Możliwość oceniania usług przez użytkowników: Umożliwienie klientom oceniania jakości usług i poszczególnych stacji, co 
    może pomóc w poprawie standardów oraz zwiększyć zaufanie klientów poprzez transparentność.
-8. Wirtualny asystent AI do wsparcia klienta: Integracja chatbota wykorzystującego sztuczną inteligencję, który 
+9. Wirtualny asystent AI do wsparcia klienta: Integracja chatbota wykorzystującego sztuczną inteligencję, który 
    będzie w stanie na bieżąco odpowiadać na pytania użytkowników i pomagać w rozwiązywaniu problemów.
+
 
 ### Moduł Zarządzania Stacją (Zewnętrzne)
 1. Panel zarządzania dla operatorów stacji umożliwiający monitorowanie i kontrolę stanu dystrybutorów, poziomu paliw w zbiornikach i danych transakcyjnych.
@@ -23,6 +25,8 @@ bez potrzeby interakcji z personelem.
 3. System zarządzania zapasami i automatyczne zamawianie paliwa w oparciu o przewidywane zapotrzebowanie.
 4. Moduł bezpieczeństwa monitorujący stacje pod kątem potencjalnych awarii, wycieków oraz nieautoryzowanego dostępu.
 5. Integracja z systemami alarmowymi i powiadomieniami awaryjnymi, zapewniająca szybką reakcję na incydenty.
+6.Zarządzanie zużyciem energii: Optymalizacja zużycia energii na stacjach poprzez inteligentne zarządzanie oświetleniem, pompami i innymi urządzeniami,
+co przyczynia się do obniżenia kosztów operacyjnych i wsparcia inicjatyw ekologicznych.
 
 ### Wymagania Techniczne
 1. System powinien być oparty na architekturze mikrousług, z wykorzystaniem najnowszych technologii cloud computing.
