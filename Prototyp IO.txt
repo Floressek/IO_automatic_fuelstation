@@ -5,7 +5,7 @@ Nasza wizja zakłada stworzenie nowej jakości usług w sektorze stacji paliw,
 gdzie klienci mogą korzystać z naszych usług w pełni automatycznie,
 bez potrzeby interakcji z personelem.
 
-### Moduł Obsługi Klienta
+### Moduł Obsługi Klienta (Wewnętrzne)
 1. Aplikacja mobilna umożliwiająca lokalizowanie najbliższych stacji, rezerwację dystrybutorów i dokonywanie płatności.
 2. System identyfikacji pojazdów przy użyciu technologii RFID oraz rozpoznawania tablic rejestracyjnych.
 3. Automatyczne fakturowanie i cyfrowe paragony wysyłane bezpośrednio do aplikacji klienta.
@@ -13,7 +13,7 @@ bez potrzeby interakcji z personelem.
 5. Interaktywne kioski do samoobsługowej płatności dla klientów nieposiadających aplikacji.
 6. System wsparcia klienta zintegrowany z aplikacją, umożliwiający szybkie rozwiązywanie problemów i pytania użytkowników.
 
-### Moduł Zarządzania Stacją
+### Moduł Zarządzania Stacją (Zewnętrzne)
 1. Panel zarządzania dla operatorów stacji umożliwiający monitorowanie i kontrolę stanu dystrybutorów, poziomu paliw w zbiornikach i danych transakcyjnych.
 2. Automatyczne generowanie raportów sprzedaży, analizy efektywności promocji i preferencji klientów.
 3. System zarządzania zapasami i automatyczne zamawianie paliwa w oparciu o przewidywane zapotrzebowanie.
