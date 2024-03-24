@@ -1,7 +1,7 @@
 # PSO
 
 ## Opis projektu
-Projekt PSO ma na celu stworzenie zaawansowanego modelu systemu informatycznego dla bezobsługowych stacji paliw, skoncentrowanego na automatyzacji 
+Projekt PSO - Petrol Station Organization ma na celu stworzenie zaawansowanego modelu systemu informatycznego dla bezobsługowych stacji paliw, skoncentrowanego na automatyzacji 
 procesów obsługi klienta i zarządzania wewnętrzną infrastrukturą. Przygotowany jako projekt na laboratorium z Inżynierii Oprogramowania, model ten 
 ma służyć jako podstawa dla potencjalnej realizacji w przyszłości.
 
