@@ -54,3 +54,119 @@ bez potrzeby interakcji z personelem.
 8. **Eko-inicjatywy:** Integracja funkcji wspierających ekologiczne inicjatywy, takich jak promowanie tankowania paliw alternatywnych oraz analiza śladu węglowego generowanego przez użytkowników stacji.
 9. **Personalizacja doświadczeń klientów:** Rozwój funkcji personalizacji w aplikacji mobilnej, tak aby każdy klient czuł, że oferta "FuelFuture" jest dostosowana do jego indywidualnych potrzeb i preferencji.
 10. **Zarządzanie awariami i utrzymanie:** Implementacja zaawansowanego systemu monitorowania urządzeń, który pozwoli na szybką diagnostykę i reakcję na ewentualne awarie lub potrzeby konserwacyjne, minimalizując przestoje w dostępności dystrybutorów.
+
+### LAB2 - contents:
+
+# Analiza czasownikowo-rzeczownikowa projektu
+
+Analiza czasownikowo-rzeczownikowa na podstawie opisu projektu skupia się na wyodrębnieniu kluczowych elementów, takich jak czasowniki i rzeczowniki. Oto szczegółowe podejście:
+
+## Wyodrębnienie czasownikowo-rzeczownikowe:
+
+### Projektowanie i wdrożenie systemu informatycznego dla sieci bezobsługowych stacji paliw:
+- **Czasowniki**: "zaprojektowania" i "wdrożenia"
+- **Rzeczowniki**: "systemu informatycznego", "sieci bezobsługowych stacji paliw"
+
+### Automatyzacja procesów związanych z obsługą klientów oraz zarządzaniem wewnętrznymi zasobami firmy:
+- **Czasownik**: "automatyzację"
+- **Rzeczowniki**: "procesów związanych z obsługą klientów", "zarządzaniem wewnętrznymi zasobami firmy"
+
+### Stworzenie nowej jakości usług w sektorze stacji paliw:
+- **Czasownik**: "stworzenie"
+- **Rzeczownik**: "nowej jakości usług", "sektorze stacji paliw"
+
+## Moduł Obsługi Klienta:
+
+- **Czasownik**: "umożliwiająca", "identyfikacji", "automatyczne fakturowanie", "wysyłane", "personalizacja", "umożliwienie", "integracja", "wybór"
+- **Rzeczowniki**: "aplikacji mobilnej", "najbliższych stacji", "rezerwacji dystrybutorów", "dokonywania płatności", "pojazdów", "technologii RFID", "tablic rejestracyjnych", "cyfrowe paragony", "aplikacji klienta", "analizę historii tankowań", "preferencji użytkowników", "spersonalizowanych promocji", "klientom oceniania", "usług", "poszczególnych stacji", "chatbota", "sztuczną inteligencję", "preferowanej metody tankowania", "zautomatyzowanej", "tradycyjnej"
+
+## Moduł Zarządzania Stacją:
+
+- **Czasowniki**: "monitorowanie i kontrolę", "automatyczne generowanie", "zarządzanie", "automatyczne zamawianie", "optymalizacja"
+- **Rzeczowniki**: "panelu zarządzania", "operatorów stacji", "raportów sprzedaży", "analiz", "promocji", "preferencji klientów", "zapasami", "paliwa", "zużycia energii", "inteligentne zarządzanie", "oświetleniem", "pompami"
+
+## Wymagania Techniczne:
+
+- **Rzeczowniki**: "architekturze mikrousług", "technologii cloud computing", "szyfrowanie", "zabezpieczenia", "nieautoryzowanym dostępem", "elastyczność i skalowalność"
+
+## Przypadki Użycia:
+
+- **Rzeczowniki**: "rezerwacja dystrybutora", "tankowanie", "automatyczne rozliczenie", "transakcji", "monitorowanie", "zbiorników paliw", "automatyczne zamawianie dostaw"
+
+## Dalsze Wymagania i Oczekiwania:
+
+- **Czasownik**: "optymalizacja", "wykorzystanie", "integracja"
+- **Rzeczowniki**: "procesu tankowania", "algorytmów AI", "analizy danych", "ekologiczne inicjatywy"
+
+Ta szczegółowa analiza pozwala zrozumieć, jak system ma integrować i automatyzować różnorodne funkcje.
+
+## Lista wymagań funkcjonalnych:
+
+### Funkcjonalności Aplikacji Mobilnej:
+- Lokalizowanie najbliższych stacji paliw.
+- Rezerwacja dystrybutorów paliw.
+- Dokonywanie płatności za paliwo.
+
+### System Identyfikacji i Autentykacji:
+- Identyfikacja pojazdów przy użyciu technologii RFID.
+- Rozpoznawanie tablic rejestracyjnych.
+- Automatyczne fakturowanie i wysyłanie cyfrowych paragonów.
+- Personalizacja usług na podstawie historii tankowań i preferencji użytkowników.
+
+### Obsługa Klienta i Interaktywność:
+- Interaktywne kioski do samoobsługowej płatności.
+- Zintegrowany system wsparcia klienta w aplikacji mobilnej.
+- Funkcja oceny jakości usług przez użytkowników.
+- Wirtualny asystent AI do wsparcia klienta.
+
+### Zarządzanie Stacją:
+- Panel zarządzania dla operatorów stacji.
+- Automatyczne generowanie raportów sprzedaży i analiz efektywności.
+- System zarządzania zapasami i automatyczne zamawianie paliwa.
+- Optymalizacja zużycia energii i zarządzanie zużyciem na stacji.
+
+### Bezpieczeństwo i Monitoring:
+- Monitorowanie stacji pod kątem potencjalnych awarii i wycieków.
+- Integracja z systemami alarmowymi i powiadomieniami awaryjnymi.
+
+### Integracja i Reklama:
+- Integracja z Google Ads dla spersonalizowanych reklam.
+- Możliwość wyświetlania reklam na ekranach stacji.
+
+### Wymagania Techniczne Systemu:
+- Architektura mikrousług i wykorzystanie cloud computing.
+- Wysoki poziom bezpieczeństwa danych i szyfrowanie.
+- Elastyczność i skalowalność systemu.
+- Kompatybilność z różnymi systemami płatności elektronicznych.
+
+## Ustalanie priorytetów:
+
+W celu ustalenia priorytetów zastosujemy metodę MoSCoW, dzieląc wymagania na:
+
+### Must have (Musi posiadać):
+- Lokalizowanie stacji i rezerwacja dystrybutorów.
+- Dokonywanie płatności
+- Identyfikacja pojazdów (RFID/tablice rejestracyjne).
+- Automatyczne fakturowanie.
+- Panel zarządzania dla operatorów stacji.
+- Automatyczne generowanie raportów.
+- System zarządzania zapasami.
+- Bezpieczeństwo danych.
+
+### Should have (Powinien posiadać):
+- Personalizacja usług na podstawie historii użytkowników.
+- Zintegrowany system wsparcia klienta.
+- Optymalizacja zużycia energii.
+- Monitorowanie stacji pod kątem awarii.
+
+### Could have (Mógłby posiadać):
+- Interaktywne kioski do płatności.
+- Funkcja oceny usług przez użytkowników.
+- Wirtualny asystent AI.
+- Integracja z Google Ads i wyświetlanie reklam.
+
+### Won't have (Nie będzie posiadać w tej wersji):
+- Zaawansowane personalizacje i funkcje promocyjne.
+- Niektóre funkcje integracyjne z zewnętrznymi usługami.
+
+
