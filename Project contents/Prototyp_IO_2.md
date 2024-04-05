@@ -196,20 +196,24 @@ związanych z działalnością stacji paliw oraz przetwarzaniem danych osobowych
 - Interakcje:
 
 ### **System Zarządzania Flotą Pojazdów**
-- Opis:
-- Interakcje:
-
-## Serwisan
-- Opis:
-- Interakcje:
-
+- Opis: Zewnętrzny system używany przez firmy do monitorowania i zarządzania pojazdami, mogący
+  integrować się z systemem stacji paliw w celu optymalizacji procesów tankowania i płatności.
+- Interakcje: Automatyczna identyfikacja pojazdów floty, rezerwacja dystrybutorów, automatyczne rozliczanie i fakturowanie.
+  
+## Dostawcy Usług Płatniczych
+- Opis: Zewnętrzne instytucje finansowe i dostawcy usług płatniczych umożliwiający transakcje
+  finansowe poprzez aplikację mobilną i kioski samoobsługowe
+- Interakcje:Przetwarzanie płatności, autoryzacja transakcji, zarządzanie zwrotami i reklamacjami płatniczymi.
+  
 ## System Alarmowy
-- Opis:
+- Opis: System bezpieczeństwa wykorzystywany do monitorowania stacji paliw pod kątem potencjalnych
+  awarii, wycieków paliwa lub nieautoryzowanego dostępu.
 - Interakcje:
 
 ## Google Ads
-- Opis:
-- Interakcje:
+- Opis: Platforma reklamowa integrująca sie z systemem stacji paliw w celu wyświetlania spersonalizowanych reklam / informacji 
+na których może zależeć konsumentowi poprzez aplikację mobilną i kioski samoobsługowe. 
+- Interakcje: Przetwarzanie płatności, autoryzacja transakcji, zarządzanie zwrotami i reklamacjami płatniczymi.
 
 ## Ustalanie priorytetów:
 
@@ -243,5 +247,8 @@ W celu ustalenia priorytetów zastosujemy metodę MoSCoW, dzieląc wymagania na:
 ### Won't have (Nie będzie posiadać w tej wersji):
 - Zaawansowane personalizacje i funkcje promocyjne.
 - Niektóre funkcje integracyjne z zewnętrznymi usługami.
+
+
+TODO - samochody elektryczne !!!!!!!!!!!!!
 
 
