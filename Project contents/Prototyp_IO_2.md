@@ -186,6 +186,31 @@ Ta szczegółowa analiza pozwala zrozumieć, jak system ma integrować i automat
 - Spełnienie wszystkich obowiązujących wymogów prawnych i regulacyjnych 
 związanych z działalnością stacji paliw oraz przetwarzaniem danych osobowych.
 
+##Identyfikacja aktorów:
+##Klient
+Opis:
+Interakcje:
+
+##Operator Stacji
+Opis:
+Interakcje:
+
+###**System Zarządzania Flotą Pojazdów**
+Opis:
+Interakcje:
+
+##Serwisan
+Opis:
+Interakcje:
+
+##System Alarmowy
+Opis:
+Interakcje:
+
+##Google Ads
+Opis:
+Interakcje:
+
 ## Ustalanie priorytetów:
 
 W celu ustalenia priorytetów zastosujemy metodę MoSCoW, dzieląc wymagania na:
