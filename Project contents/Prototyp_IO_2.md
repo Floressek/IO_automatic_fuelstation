@@ -187,33 +187,38 @@ Ta szczegółowa analiza pozwala zrozumieć, jak system ma integrować i automat
 związanych z działalnością stacji paliw oraz przetwarzaniem danych osobowych.
 
 ## Identyfikacja aktorów:
-## Klient
-- Opis:
-- Interakcje:
-
+## Klient(Kluczowy Odbiorca)
+   Opis: Klienci stacji benzynowej bezdotykowej to osoby korzystające z pojazdów, które cenią sobie wygodę, 
+   szybkość i bezpieczeństwo przy tankowaniu. Mają kluczowe znaczenie dla projektu,
+   ponieważ sukces biznesowy zależy od ich zadowolenia i lojalności.
+Są to osoby w różnym wieku, korzystające zarówno z pojazdów spalinowych, jak i elektrycznych, poszukujące efektywnych i nowoczesnych rozwiązań
+   Interakcje:
+- Użycie Bezdotykowych Dystrybutorów Paliwa: Klienci korzystają z nowoczesnych, bezdotykowych dystrybutorów paliwa,
+   które umożliwiają tankowanie bez konieczności fizycznego dotykania urządzenia.
+  Interakcja odbywa się za pomocą aplikacji mobilnej lub systemów rozpoznawania pojazdów.
+    Plan Zaangażowania Klienta:
+  System feedbacku i ciągłej poprawy: Implementacja mechanizmu zbierania opinii od klientów po wizycie na stacji,
+  co umożliwi bieżące dostosowywanie usług do ich potrzeb.
 ## Operator Stacji
-- Opis:
-- Interakcje:
+Opis: Operatorzy są niezbędni do poprawnego funkjonowania stacji, ponieważ stacja musi być utrzymana w wysokim standardzie jakości
+Interakcje:
+Utrzymanie Czystości i Bezpieczeństwa: Dbają o utrzymanie stacji w czystości i zgodności z normami bezpieczeństwa,
+co jest kluczowe dla zapewnienia pozytywnego wrażenia klientów.
+Wsparcie Techniczne: Zapewnienie operatorom dostępu do wsparcia technicznego w przypadku problemów z systemem,
+aby minimalizować przestoje i zakłócenia w dostępności usług.
 
 ### **System Zarządzania Flotą Pojazdów**
-- Opis: Zewnętrzny system używany przez firmy do monitorowania i zarządzania pojazdami, mogący
-  integrować się z systemem stacji paliw w celu optymalizacji procesów tankowania i płatności.
-- Interakcje: Automatyczna identyfikacja pojazdów floty, rezerwacja dystrybutorów, automatyczne rozliczanie i fakturowanie.
-  
-## Dostawcy Usług Płatniczych
-- Opis: Zewnętrzne instytucje finansowe i dostawcy usług płatniczych umożliwiający transakcje
-  finansowe poprzez aplikację mobilną i kioski samoobsługowe
-- Interakcje:Przetwarzanie płatności, autoryzacja transakcji, zarządzanie zwrotami i reklamacjami płatniczymi.
-  
+- Opis:
+- Interakcje:
+## Administrator Systemu
+Opis: 
 ## System Alarmowy
-- Opis: System bezpieczeństwa wykorzystywany do monitorowania stacji paliw pod kątem potencjalnych
-  awarii, wycieków paliwa lub nieautoryzowanego dostępu.
+- Opis:
 - Interakcje:
 
 ## Google Ads
-- Opis: Platforma reklamowa integrująca sie z systemem stacji paliw w celu wyświetlania spersonalizowanych reklam / informacji 
-na których może zależeć konsumentowi poprzez aplikację mobilną i kioski samoobsługowe. 
-- Interakcje: Przetwarzanie płatności, autoryzacja transakcji, zarządzanie zwrotami i reklamacjami płatniczymi.
+- Opis:
+- Interakcje:
 
 ## Ustalanie priorytetów:
 
@@ -247,8 +252,5 @@ W celu ustalenia priorytetów zastosujemy metodę MoSCoW, dzieląc wymagania na:
 ### Won't have (Nie będzie posiadać w tej wersji):
 - Zaawansowane personalizacje i funkcje promocyjne.
 - Niektóre funkcje integracyjne z zewnętrznymi usługami.
-
-
-TODO - samochody elektryczne !!!!!!!!!!!!!
 
 
