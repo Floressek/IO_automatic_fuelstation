@@ -91,8 +91,8 @@ Oto szczegółowe podejście:
 ## Moduł Obsługi Klienta:
 
 - **Czasownik**: "umożliwiająca", "identyfikacji", "automatyczne fakturowanie", "wysyłane", "personalizacja", "umożliwienie", "integracja", "wybór"
-- **Rzeczowniki**: "aplikacji mobilnej", "najbliższych stacji", "rezerwacji dystrybutorów", "dokonywania płatności", "pojazdów", "technologii RFID",
-  "tablic rejestracyjnych", "cyfrowe paragony", "aplikacji klienta", "analizę historii tankowań", "preferencji użytkowników", "spersonalizowanych promocji",
+- **Rzeczowniki**: "aplikacji mobilnej", "najbliższych stacji", "rezerwacji dystrybutorów", "dokonywania płatności", "pojazdów", "technologii RFID", "robot do tankowania",
+  "metoda tankowania", "automatyczne tankowanie","tablic rejestracyjnych", "cyfrowe paragony", "aplikacji klienta", "analizę historii tankowań", "preferencji użytkowników", "spersonalizowanych promocji",
   "klientom oceniania", "usług", "poszczególnych stacji", "chatbota", "sztuczną inteligencję", "preferowanej metody tankowania", 
   "zautomatyzowanej", "tradycyjnej"
 
@@ -163,6 +163,9 @@ W celu ustalenia priorytetów zastosujemy metodę MoSCoW, dzieląc wymagania na:
 ### Must have (Musi posiadać):
 - Lokalizowanie stacji i rezerwacja dystrybutorów.
 - Dokonywanie płatności
+- Funkcjonalność umożliwiająca użytkownikom wybór preferowanej metody tankowania, w tym
+  automatycznego tankowania przy użyciu robotów. Jest to kluczowy element różnicujący usługę
+  stacji paliw i odpowiada bezpośrednio na wizję stworzenia nowej jakości usług w sektorze.
 - Identyfikacja pojazdów (RFID/tablice rejestracyjne).
 - Automatyczne fakturowanie.
 - Panel zarządzania dla operatorów stacji.
