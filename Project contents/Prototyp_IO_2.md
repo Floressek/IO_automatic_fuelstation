@@ -208,17 +208,20 @@ Wsparcie Techniczne: Zapewnienie operatorom dostępu do wsparcia technicznego w 
 aby minimalizować przestoje i zakłócenia w dostępności usług.
 
 ### **System Zarządzania Flotą Pojazdów**
-- Opis:
-- Interakcje:
+- Opis: Zewnętrzny system używany przez firmy do monitorowania i zarządzania pojazdami, mogący integrować się z systemem stacji    paliw w celu optymalizacji procesów tankowania i płatności.
+- Interakcje: Automatyczna identyfikacja pojazdów floty, rezerwacja dystrybutorów, automatyczne rozliczanie i fakturowanie.
+  
 ## Administrator Systemu
-Opis: 
+- Opis: 
+- Interakcje: 
+  
 ## System Alarmowy
-- Opis:
-- Interakcje:
+- Opis: System bezpieczeństwa wykorzystywany do monitorowania stacji paliw pod kątem potencjalnych awarii, wycieków paliwa lub       nieautoryzowanego dostępu.
+- Interakcje: Generowanie alarmów i powiadomień dla operatorów stacji i administratorów systemu w przypadku wykrycia incydentów.
 
 ## Google Ads
-- Opis:
-- Interakcje:
+- Opis: Platforma reklamowa integrująca się z systemem stacji paliw w celu wyświetlania spersonalizowanych reklam klientom    podczas korzystania ze stacji.
+- Interakcje: Dostarczanie danych dla spersonalizowanych kampanii reklamowych, analiza skuteczności reklam.
 
 ## Ustalanie priorytetów:
 
