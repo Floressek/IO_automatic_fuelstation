@@ -160,30 +160,30 @@ Ta szczegółowa analiza pozwala zrozumieć, jak system ma integrować i automat
 
 
 ### Dostępność/Niezawodność:
--aplikacja ma być dostępna dostępna przez 99.999% w roku
--aplikacja będzie dostępna przez określoną ilość lat
+- aplikacja ma być dostępna dostępna przez 99.999% w roku
+- aplikacja będzie dostępna przez określoną ilość lat
 
 ### Wydajność:
--maksymalna ilość użytkowników korzystających z aplikacji jednocześnie,
--maksymalna ilość czasu odpowiedzi aplikacji na zapytanie użytkownika,
--sposób, w jaki aplikacja korzysta z zasobów sprzętowych
+- maksymalna ilość użytkowników korzystających z aplikacji jednocześnie,
+- maksymalna ilość czasu odpowiedzi aplikacji na zapytanie użytkownika,
+- sposób, w jaki aplikacja korzysta z zasobów sprzętowych
 
 ### Wsparcie:
--maksymalny czas potrzebny do naprawienia błędów
--sposób testowania
--dostępność wsparcia techniczego i serwisowego
+- maksymalny czas potrzebny do naprawienia błędów
+- sposób testowania
+- dostępność wsparcia techniczego i serwisowego
 
 ### Bezpieczeństwo:
--bezpieczeńśtwo przechowywania danych RODO
--pożądane sposoby zabezpieczenia aplikacji
+- bezpieczeńśtwo przechowywania danych RODO
+- pożądane sposoby zabezpieczenia aplikacji
 
 ### Użytecznośc aplikacji
--kolorystyka i design
--skalowaność wyglądu do rozmiaru ekranu
--kastominizacja wyglądu
+- kolorystyka i design
+- skalowaność wyglądu do rozmiaru ekranu
+- kastominizacja wyglądu
 
 ### Zgodność prawna i regulacyjna:
--Spełnienie wszystkich obowiązujących wymogów prawnych i regulacyjnych 
+- Spełnienie wszystkich obowiązujących wymogów prawnych i regulacyjnych 
 związanych z działalnością stacji paliw oraz przetwarzaniem danych osobowych.
 
 ## Ustalanie priorytetów:
