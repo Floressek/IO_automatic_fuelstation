@@ -187,41 +187,55 @@ Ta szczegółowa analiza pozwala zrozumieć, jak system ma integrować i automat
 związanych z działalnością stacji paliw oraz przetwarzaniem danych osobowych.
 
 ## Identyfikacja aktorów:
-## Klient(Kluczowy Odbiorca)
-   Opis: Klienci stacji benzynowej bezdotykowej to osoby korzystające z pojazdów, które cenią sobie wygodę, 
-   szybkość i bezpieczeństwo przy tankowaniu. Mają kluczowe znaczenie dla projektu,
-   ponieważ sukces biznesowy zależy od ich zadowolenia i lojalności.
+### Klient(Kluczowy Odbiorca)
+Opis: 
+Klienci stacji benzynowej bezdotykowej to osoby korzystające z pojazdów, które cenią sobie wygodę, 
+szybkość i bezpieczeństwo przy tankowaniu. Mają kluczowe znaczenie dla projektu,
+ponieważ sukces biznesowy zależy od ich zadowolenia i lojalności.
 Są to osoby w różnym wieku, korzystające zarówno z pojazdów spalinowych, jak i elektrycznych, poszukujące efektywnych i nowoczesnych rozwiązań
-   Interakcje:
+Interakcje:
 - Użycie Bezdotykowych Dystrybutorów Paliwa: Klienci korzystają z nowoczesnych, bezdotykowych dystrybutorów paliwa,
    które umożliwiają tankowanie bez konieczności fizycznego dotykania urządzenia.
   Interakcja odbywa się za pomocą aplikacji mobilnej lub systemów rozpoznawania pojazdów.
     Plan Zaangażowania Klienta:
-  System feedbacku i ciągłej poprawy: Implementacja mechanizmu zbierania opinii od klientów po wizycie na stacji,
+-System feedbacku i ciągłej poprawy: Implementacja mechanizmu zbierania opinii od klientów po wizycie na stacji,
   co umożliwi bieżące dostosowywanie usług do ich potrzeb.
-## Operator Stacji
-Opis: Operatorzy są niezbędni do poprawnego funkjonowania stacji, ponieważ stacja musi być utrzymana w wysokim standardzie jakości
+  
+### Operator Stacji
+Opis: 
+Operatorzy są niezbędni do poprawnego funkjonowania stacji, ponieważ stacja musi być utrzymana w wysokim standardzie jakości
 Interakcje:
-Utrzymanie Czystości i Bezpieczeństwa: Dbają o utrzymanie stacji w czystości i zgodności z normami bezpieczeństwa,
+- Utrzymanie Czystości i Bezpieczeństwa: Dbają o utrzymanie stacji w czystości i zgodności z normami bezpieczeństwa,
 co jest kluczowe dla zapewnienia pozytywnego wrażenia klientów.
-Wsparcie Techniczne: Zapewnienie operatorom dostępu do wsparcia technicznego w przypadku problemów z systemem,
+- Wsparcie Techniczne: Zapewnienie operatorom dostępu do wsparcia technicznego w przypadku problemów z systemem,
 aby minimalizować przestoje i zakłócenia w dostępności usług.
 
 ### **System Zarządzania Flotą Pojazdów**
-- Opis: Zewnętrzny system używany przez firmy do monitorowania i zarządzania pojazdami, mogący integrować się z systemem stacji    paliw w celu optymalizacji procesów tankowania i płatności.
-- Interakcje: Automatyczna identyfikacja pojazdów floty, rezerwacja dystrybutorów, automatyczne rozliczanie i fakturowanie.
+Opis: 
+Zewnętrzny system używany przez firmy do monitorowania i zarządzania pojazdami,
+mogący integrować się z systemem stacji    paliw w celu optymalizacji procesów tankowania i płatności.
+Interakcje:
+- Automatyczna identyfikacja pojazdów floty, rezerwacja dystrybutorów, automatyczne rozliczanie i fakturowanie.
   
-## Administrator Systemu
-- Opis: 
-- Interakcje: 
+### Administrator Systemu
+Opis: 
+Administrator Systemu jest odpowiedzialny za zarządzanie i konserwację infrastruktury IT stacji benzynowej,
+w tym serwerów, oprogramowania oraz systemów bezpieczeństwa cyfrowego. 
+Interakcje: 
+- Reguralne łatki bezpieczeństwa, aby zapewnić niezawodność systemu.
   
-## System Alarmowy
-- Opis: System bezpieczeństwa wykorzystywany do monitorowania stacji paliw pod kątem potencjalnych awarii, wycieków paliwa lub       nieautoryzowanego dostępu.
-- Interakcje: Generowanie alarmów i powiadomień dla operatorów stacji i administratorów systemu w przypadku wykrycia incydentów.
+### System Alarmowy
+Opis: 
+System bezpieczeństwa wykorzystywany do monitorowania stacji paliw
+pod kątem potencjalnych awarii, wycieków paliwa lub nieautoryzowanego dostępu.
+Interakcje:
+- Generowanie alarmów i powiadomień dla operatorów stacji i administratorów systemu w przypadku wykrycia incydentów.
 
-## Google Ads
-- Opis: Platforma reklamowa integrująca się z systemem stacji paliw w celu wyświetlania spersonalizowanych reklam klientom    podczas korzystania ze stacji.
-- Interakcje: Dostarczanie danych dla spersonalizowanych kampanii reklamowych, analiza skuteczności reklam.
+### Google Ads
+Opis: 
+Platforma reklamowa integrująca się z systemem stacji paliw w celu wyświetlania 
+spersonalizowanych reklam klientom podczas korzystania ze stacji.
+Interakcje: Dostarczanie danych dla spersonalizowanych kampanii reklamowych, analiza skuteczności reklam.
 
 ## Ustalanie priorytetów:
 
