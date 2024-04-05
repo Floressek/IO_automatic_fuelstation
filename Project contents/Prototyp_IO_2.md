@@ -1,4 +1,4 @@
-### LAB1 - contents:
+### LAB1 - contents: (pkt 1 i 2)
 
 Zamawiający, czyli firma "PSO", będąca liderem w branży nowoczesnych technologii paliwowych, 
 poszukuje wykonawcy do zaprojektowania i wdrożenia kompleksowego systemu informatycznego dla naszej nowej sieci bezobsługowych stacji paliw.
@@ -59,11 +59,20 @@ bez potrzeby interakcji z personelem.
 13. **Zarządzanie awariami i utrzymanie:** Implementacja zaawansowanego systemu monitorowania urządzeń, który pozwoli na szybką diagnostykę i reakcję na ewentualne
     awarie lub potrzeby konserwacyjne, minimalizując przestoje w dostępności dystrybutorów.
 
-### LAB2 - contents:
+### LAB2 - contents (pkt 3 i 4):
 
 # Analiza czasownikowo-rzeczownikowa projektu
 
-Analiza czasownikowo-rzeczownikowa na podstawie opisu projektu skupia się na wyodrębnieniu kluczowych elementów, takich jak czasowniki i rzeczowniki. Oto szczegółowe podejście:
+Analiza czasownikowo-rzeczownikowa jest techniką analityczną stosowaną w projektowaniu systemów informatycznych, która polega
+na przeszukiwaniu dokumentacji(u nas zawartość lab1) projektu w celu znaleźenia czasownikow i rzeczowników. Czasowniki w tym 
+kontekście pełnią rolę reprezentacji działania lub operacji, które użytkownik może wykonywać za pośrednictwem systemu, zaś rzeczowniki 
+odnoszą się do obieków systemu, na których działania te są wykonywane. Proces ten umożliwia szybkie i jawne zidentyfikownie głowych 
+funkcjonalności, które system ma oferować, oraz kluczowych elementów tegoż systemu tj. moduły, dane czy zasoby z którymi funkcje są związane. 
+To sprawia, że analiza czasownikowo-rzeczownikowa jest cennym narzędziem na wczesnym etapie projektowania, pomagającym w strukturyzacji wymagań
+i lepszym zrozumieniu zakresu projektu.
+
+
+Oto szczegółowe podejście:
 
 ## Wyodrębnienie czasownikowo-rzeczownikowe:
 
