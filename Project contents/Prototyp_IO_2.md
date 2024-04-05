@@ -50,10 +50,14 @@ bez potrzeby interakcji z personelem.
 ### Dalsze Wymagania i Oczekiwania
 
 6. **Optymalizacja procesu tankowania:** System powinien minimalizować czas potrzebny na tankowanie, oferując klientom możliwość szybkiego powrotu na drogę.
-7. **Analiza danych i sztuczna inteligencja:** Wykorzystanie algorytmów AI do analizy danych zbieranych przez system, w celu optymalizacji procesów logistycznych i zapewnienia maksymalnej efektywności operacyjnej.
-8. **Eko-inicjatywy:** Integracja funkcji wspierających ekologiczne inicjatywy, takich jak promowanie tankowania paliw alternatywnych oraz analiza śladu węglowego generowanego przez użytkowników stacji.
-9. **Personalizacja doświadczeń klientów:** Rozwój funkcji personalizacji w aplikacji mobilnej, tak aby każdy klient czuł, że oferta "FuelFuture" jest dostosowana do jego indywidualnych potrzeb i preferencji.
-10. **Zarządzanie awariami i utrzymanie:** Implementacja zaawansowanego systemu monitorowania urządzeń, który pozwoli na szybką diagnostykę i reakcję na ewentualne awarie lub potrzeby konserwacyjne, minimalizując przestoje w dostępności dystrybutorów.
+7. **Analiza danych i sztuczna inteligencja:** Wykorzystanie algorytmów AI do analizy danych zbieranych przez system, w celu optymalizacji procesów logistycznych i
+   zapewnienia maksymalnej efektywności operacyjnej.
+9. **Eko-inicjatywy:** Integracja funkcji wspierających ekologiczne inicjatywy, takich jak promowanie tankowania paliw alternatywnych oraz analiza śladu węglowego
+    generowanego przez użytkowników stacji.
+11. **Personalizacja doświadczeń klientów:** Rozwój funkcji personalizacji w aplikacji mobilnej, tak aby każdy klient czuł, że oferta "FuelFuture" jest dostosowana do
+    jego indywidualnych potrzeb i preferencji.
+13. **Zarządzanie awariami i utrzymanie:** Implementacja zaawansowanego systemu monitorowania urządzeń, który pozwoli na szybką diagnostykę i reakcję na ewentualne
+    awarie lub potrzeby konserwacyjne, minimalizując przestoje w dostępności dystrybutorów.
 
 ### LAB2 - contents:
 
@@ -78,12 +82,16 @@ Analiza czasownikowo-rzeczownikowa na podstawie opisu projektu skupia się na wy
 ## Moduł Obsługi Klienta:
 
 - **Czasownik**: "umożliwiająca", "identyfikacji", "automatyczne fakturowanie", "wysyłane", "personalizacja", "umożliwienie", "integracja", "wybór"
-- **Rzeczowniki**: "aplikacji mobilnej", "najbliższych stacji", "rezerwacji dystrybutorów", "dokonywania płatności", "pojazdów", "technologii RFID", "tablic rejestracyjnych", "cyfrowe paragony", "aplikacji klienta", "analizę historii tankowań", "preferencji użytkowników", "spersonalizowanych promocji", "klientom oceniania", "usług", "poszczególnych stacji", "chatbota", "sztuczną inteligencję", "preferowanej metody tankowania", "zautomatyzowanej", "tradycyjnej"
+- **Rzeczowniki**: "aplikacji mobilnej", "najbliższych stacji", "rezerwacji dystrybutorów", "dokonywania płatności", "pojazdów", "technologii RFID",
+  "tablic rejestracyjnych", "cyfrowe paragony", "aplikacji klienta", "analizę historii tankowań", "preferencji użytkowników", "spersonalizowanych promocji",
+  "klientom oceniania", "usług", "poszczególnych stacji", "chatbota", "sztuczną inteligencję", "preferowanej metody tankowania", 
+  "zautomatyzowanej", "tradycyjnej"
 
 ## Moduł Zarządzania Stacją:
 
 - **Czasowniki**: "monitorowanie i kontrolę", "automatyczne generowanie", "zarządzanie", "automatyczne zamawianie", "optymalizacja"
-- **Rzeczowniki**: "panelu zarządzania", "operatorów stacji", "raportów sprzedaży", "analiz", "promocji", "preferencji klientów", "zapasami", "paliwa", "zużycia energii", "inteligentne zarządzanie", "oświetleniem", "pompami"
+- **Rzeczowniki**: "panelu zarządzania", "operatorów stacji", "raportów sprzedaży", "analiz", "promocji", "preferencji klientów", "zapasami",
+  "paliwa", "zużycia energii", "inteligentne zarządzanie", "oświetleniem", "pompami"
 
 ## Wymagania Techniczne:
 
