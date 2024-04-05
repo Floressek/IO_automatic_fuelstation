@@ -1,4 +1,4 @@
-LAB1 - contents:
+### LAB1 - contents:
 
 Zamawiający, czyli firma "PSO", będąca liderem w branży nowoczesnych technologii paliwowych, 
 poszukuje wykonawcy do zaprojektowania i wdrożenia kompleksowego systemu informatycznego dla naszej nowej sieci bezobsługowych stacji paliw.
