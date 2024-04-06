@@ -234,7 +234,8 @@ Interakcje:
 ### Google Ads
 Opis: 
 Platforma reklamowa integrująca się z systemem stacji paliw w celu wyświetlania 
-spersonalizowanych reklam klientom podczas korzystania ze stacji. Interakcje: - Dostarczanie danych dla spersonalizowanych kampanii reklamowych, analiza skuteczności reklam.
+spersonalizowanych reklam klientom podczas korzystania ze stacji. Interakcje: 
+- Dostarczanie danych dla spersonalizowanych kampanii reklamowych, analiza skuteczności reklam.
 
 ## Ustalanie priorytetów:
 
