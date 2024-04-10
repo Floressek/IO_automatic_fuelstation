@@ -310,35 +310,47 @@ spersonalizowanych reklam klientom podczas korzystania ze stacji. Interakcje:
 
 ## Ustalanie priorytetów: (9)
 
-W celu ustalenia priorytetów zastosujemy metodę MoSCoW, dzieląc wymagania na:
-
 ### Must have (Musi posiadać):
-- Lokalizowanie stacji i rezerwacja dystrybutorów.
-- Dokonywanie płatności
-- Funkcjonalność umożliwiająca użytkownikom wybór preferowanej metody tankowania, w tym
-  automatycznego tankowania przy użyciu robotów. Jest to kluczowy element różnicujący usługę
-  stacji paliw i odpowiada bezpośrednio na wizję stworzenia nowej jakości usług w sektorze.
-- Identyfikacja pojazdów (RFID/tablice rejestracyjne).
-- Automatyczne fakturowanie.
-- Panel zarządzania dla operatorów stacji.
-- Automatyczne generowanie raportów.
-- System zarządzania zapasami.
-- Bezpieczeństwo danych.
+
+#### Epic: Lokalizacja i Rezerwacja Stacji
+- US01: (Geolocation and Station Search) Must have location services for users to find nearby gas stations.
+- US02: (Reservations) Must have the ability for users to reserve a specific tank or station, ensuring preferred service and reducing wait times.
+
+#### Epic: Płatnosć i Tankowanie
+- US03: (Payment Methods) Must have multiple payment options, including credit/debit cards, mobile wallets, and cash.
+- US04: (Fuel Selection) Must have the ability for users to choose their preferred fuel type (e.g., diesel or ethanol), tank method (automatic or manual), and nozzle format (handheld or robotic).
+- US05: (Vehicle Identification) Must have vehicle identification systems, like RFID/plates, to streamline the tanking experience by granting customers faster and more customized services.
+- US06: (Automated Facturing) Must include automated billing for smoother transactions and improved customer satisfaction.
+
+#### Epic: Panel Operatora i Raportowanie
+- US11: (Operator Dashboard) Must have an intuitive operator panel for managing multiple stations, including real-time tank statuses, user information, payment data, and station analytics.
 
 ### Should have (Powinien posiadać):
-- Personalizacja usług na podstawie historii użytkowników.
-- Zintegrowany system wsparcia klienta.
-- Optymalizacja zużycia energii.
-- Monitorowanie stacji pod kątem awarii.
 
-### Could have (Mógłby posiadać):
-- Interaktywne kioski do płatności.
-- Funkcja oceny usług przez użytkowników.
-- Wirtualny asystent AI.
-- Integracja z Google Ads i wyświetlanie reklam.
+#### Epic: Personalizacja i Wspieranie Klienta
+- US12: (User Profiles) Should support a comprehensive profile system for customers to access their own preferences and history with the service.
+- US13: (Integrated Support System) Should provide seamless customer support, including chat, email, phone, or even in-person assistance if needed.
+- US14: (Energy Optimization) Could have advanced energy optimization features to minimize waste and increase efficiency for both gas stations and users' vehicles.
+- US15: (Station Monitoring) Should include real-time monitoring of gas stations for issues, with alerts sent directly to operators when necessary.
+
+### Could have (Mógłby posiadać w tej wersji):
+
+#### Epic: Personalizacja i Marketing
+- US16: (Personalized Promotions) Could include personalized promotions based on user behavior, preferences, and transaction history to increase engagement and retention.
+- US17: (Google Ads Integration) Could support integration with Google Ads, allowing targeted advertising within the platform.
+
+#### Epic: Wirtualny Asystent i AI
+- US18: (Virtual Assistant) Could introduce a virtual assistant or AI chatbot to improve customer interactions and streamline communication between them and your business.
+
+#### Epic: Analytika Biznesowa i Optymalizacja Oferty
+- US19: (Detailed Reporting) Could have detailed reporting tools, including sales trends, user demographics, fuel usage patterns, and station performance to optimize offerings and enhance overall performance.
 
 ### Won't have (Nie będzie posiadać w tej wersji):
-- Zaawansowane personalizacje i funkcje promocyjne.
-- Niektóre funkcje integracyjne z zewnętrznymi usługami.
+
+#### Epic: Zaawansowane Personalizacje i Funkcje Promocyjne
+- US20: (Advanced Personalization) Won't include advanced personalization features, such as dynamic pricing, tailored offers, and targeted marketing, but will provide a solid foundation for further enhancements in future versions.
+
+#### Epic: Integracja z zewnętrznymi usługami
+- US21: (Third Party Integrations) Won't have advanced third-party integrations, such as Google Maps, Google Analytics, or other external systems to support a more comprehensive vision and value proposition. However, the platform will remain flexible enough for future additions.
 
 
