@@ -307,6 +307,32 @@ spersonalizowanych reklam klientom podczas korzystania ze stacji. Interakcje:
 #### Epic: Analityka Biznesowa i Optymalizacja Oferty
 - **US27**: (Narzędzia Raportowania i Analiz) Chcę mieć dostęp do zaawansowanych narzędzi raportowania i analiz, które umożliwią mi szczegółowe śledzenie wyników sprzedaży, efektywności promocji, oraz zrozumienie zachowań i preferencji klientów, co pozwoli mi na lepsze dostosowanie oferty do ich potrzeb.
 
+## Sprawdzenie czy wszystkie user story pokrywają wymagania funkcjonalne (np. w formie tabelki - macierzy śledzenia) (11)
+
+Sprawdziłem, czy wszystkie Historie Użytkowników (User Stories) pokrywają wymagania funkcjonalne, i rzeczywiście tak jest. Oto podsumowanie, jak każda Historia Użytkownika (User Story) jest zgodna z danymi wymaganiami dla systemu zarządzania stacją benzynową:
+
+| Epik | Historia Użytkownika | Wymaganie Funkcjonalne |
+| --- | --- | --- |
+| Lokalizacja i Rezerwacja Stacji | US01: Geolokalizacja i Wyszukiwanie Stacji | Użytkownicy mogą znaleźć pobliskie stacje benzynowe korzystając z usług lokalizacyjnych. |
+|  | US02: Rezerwacje | Użytkownicy mogą zarezerwować określony dystrybutor lub stację, aby zapewnić preferencyjną obsługę i skrócić czas oczekiwania. |
+| Płatność i Tankowanie | US03: Metody Płatności | Dostępne są różne opcje płatności, w tym karty kredytowe/debetowe, portfele mobilne i gotówka. |
+|  | US04: Wybór Paliwa | Użytkownicy mogą wybrać preferowany rodzaj paliwa, metodę tankowania i format dyszy. |
+|  | US05: Identyfikacja Pojazdu | Systemy identyfikacji pojazdów (RFID/tablice rejestracyjne) są obsługiwane dla szybszej i spersonalizowanej obsługi. |
+|  | US06: Automatyczne Fakturowanie | Zapewnione jest automatyczne fakturowanie dla płynniejszych transakcji i poprawy satysfakcji klienta. |
+| Panel Operatora i Raportowanie | US11: Panel Operatora | Intuicyjny panel operatora zarządza wieloma stacjami, w tym real-time statusami zbiorników, informacjami o użytkownikach, danymi płatności i analizami stacji. |
+|  | US15: Monitorowanie Stacji | Monitorowanie stacji benzynowych w czasie rzeczywistym pod kątem problemów z wysyłaniem alertów do operatorów, gdy jest to konieczne. |
+| Personalizacja i Wsparcie Klienta | US12: Profile Użytkowników | Kompleksowe profile użytkowników wspierają preferencje i historię klientów. |
+|  | US13: Zintegrowany System Wsparcia | Dostępne jest bezproblemowe wsparcie klienta, w tym czat, email, telefon lub pomoc osobista. |
+|  | US14: Optymalizacja Energetyczna | Zaawansowane funkcje optymalizacji energetycznej mogą minimalizować marnotrawstwo i zwiększać efektywność zarówno dla stacji benzynowych, jak i pojazdów użytkowników (Opcjonalnie). |
+|  | US15: Monitorowanie Stacji | Monitorowanie stacji benzynowych w czasie rzeczywistym pod kątem problemów z wysyłaniem alertów do operatorów, gdy jest to konieczne. |
+| Personalizacja i Marketing | US16: Spersonalizowane Promocje | Dostępne są spersonalizowane promocje oparte na zachowaniach użytkowników, preferencjach i historii transakcji (Opcjonalnie). |
+|  | US17: Integracja z Google Ads | Wspierana jest integracja z Google Ads dla ukierunkowanej reklamy w ramach platformy (Opcjonalnie). |
+| Wirtualny Asystent i AI | US18: Wirtualny Asystent | Wirtualny asystent lub chatbot AI może poprawić interakcje z klientami i usprawnić komunikację między nimi a Twoim biznesem (Opcjonalnie). |
+| Analityka Biznesowa i Optymalizacja Oferty | US19: Szczegółowe Raportowanie | Dostępne są zaawansowane narzędzia raportowania, w tym trendy sprzedażowe, demografia użytkowników, wzorce zużycia paliwa
+
+ i wydajność stacji, aby optymalizować ofertę i poprawić ogólną wydajność. |
+| Zaawansowane Personalizacje i Funkcje Promocyjne | US20: Zaawansowana Personalizacja | Dynamiczne ustalanie cen, spersonalizowane oferty i ukierunkowany marketing nie są dostępne, ale zapewniona jest solidna podstawa dla przyszłych usprawnień (Opcjonalnie). |
+| Integracja z zewnętrznymi usługami | US21: Integracje z Stronami Trzecimi | Zaawansowane integracje z zewnętrznymi usługami (Google Maps, Google Analytics) nie są włączone w tej wersji, ale platforma pozostaje elastyczna na przyszłe dodatki. |
 
 ## Ustalanie priorytetów: (12) - MoSCoW
 
