@@ -236,88 +236,77 @@ Opis:
 Platforma reklamowa integrująca się z systemem stacji paliw w celu wyświetlania 
 spersonalizowanych reklam klientom podczas korzystania ze stacji. Interakcje: 
 - Dostarczanie danych dla spersonalizowanych kampanii reklamowych, analiza skuteczności reklam.
-## User - Story (8):
-FINALNIE:
+  
+## User - Story (10):
 
-### Poziom Klienta
+## Poziom Klienta
 
-**Logowanie:**
-1. **US1**: Jako klient, chcę, by aplikacja prosiła mnie o wprowadzenie adresu e-mail jako loginu, co umożliwi mi bezpieczne logowanie się do konta.
-2. **US2**: Jako klient, chcę, by aplikacja prosiła o wprowadzenie hasła, dla dodatkowego zabezpieczenia, zapewniając, że dostęp do mojego konta mają tylko upoważnione osoby.
-3. **US3**: Jako klient, chcę móc nacisnąć przycisk "Zaloguj się", aby po potwierdzeniu moich danych przejść do głównego menu aplikacji, co zapewni mi szybki dostęp do wszystkich funkcji.
-4. **US4**: Jako klient, oczekuję możliwości odzyskania hasła lub stworzenia nowego konta bezpośrednio z ekranu logowania, co zapewni mi łatwy dostęp do aplikacji nawet w przypadku zapomnienia hasła.
+### Initiative: Udoskonalenie Doświadczenia Użytkownika
 
-**Powiadomienia Push:**
+#### Epic: Logowanie i Bezpieczeństwo
+- **US1**: (Logowanie) Jako klient, chcę, by aplikacja prosiła mnie o wprowadzenie adresu e-mail jako loginu, co umożliwi mi bezpieczne logowanie się do konta.
+- **US2**: (Bezpieczeństwo) Jako klient, chcę, by aplikacja prosiła o wprowadzenie hasła, dla dodatkowego zabezpieczenia, zapewniając, że dostęp do mojego konta mają tylko upoważnione osoby.
+- **US3**: (Ułatwienie Dostępu) Jako klient, chcę móc nacisnąć przycisk "Zaloguj się", aby po potwierdzeniu moich danych przejść do głównego menu aplikacji, co zapewni mi szybki dostęp do wszystkich funkcji.
+- **US4**: (Odzyskiwanie Konta) Jako klient, oczekuję możliwości odzyskania hasła lub stworzenia nowego konta bezpośrednio z ekranu logowania, co zapewni mi łatwy dostęp do aplikacji nawet w przypadku zapomnienia hasła.
 
-5. **US5**: Jako klient, chcę otrzymywać spersonalizowane powiadomienia push o lokalizacji stacji, promocjach czy zmianach cen, aby być na bieżąco z ofertami, które mogą mnie interesować.
+#### Epic: Komunikacja z Klientem
+- **US5**: (Personalizowane Powiadomienia) Jako klient, chcę otrzymywać spersonalizowane powiadomienia push o lokalizacji stacji, promocjach czy zmianach cen, aby być na bieżąco z ofertami, które mogą mnie interesować.
 
-**Znajdowanie Stacji:**
+#### Epic: Dostęp do Usług
+- **US6**: (Znajdowanie Stacji) Jako klient, chcę wyszukiwać stacje na mapie, znać ilość kolejki i mieć możliwość nawigacji, co umożliwi mi szybkie znalezienie najbliższej stacji i ocenę, czy warto do niej podjechać.
+- **US7**: (Wybór Paliwa) Jako klient, chcę widzieć listę paliw wraz z ich cenami i korzyściami z wyboru paliw premium, aby móc świadomie zdecydować, jakie paliwo tankować.
+- **US8**: (Sposób Tankowania) Jako klient, chcę wybrać sposób tankowania (automatyczny czy manualny) z dostępnymi instrukcjami, aby proces tankowania był jak najbardziej komfortowy i dostosowany do moich potrzeb.
 
-6. **US6**: Jako klient, chcę wyszukiwać stacje na mapie, znać ilość kolejki i mieć możliwość nawigacji, co umożliwi mi szybkie znalezienie najbliższej stacji i ocenę, czy warto do niej podjechać.
+#### Epic: Zarządzanie Finansami
+- **US9**: (Historia Płatności) Jako klient, chcę mieć dostęp do historii płatności, w tym daty i kwot transakcji oraz rodzaju zatankowanego paliwa, co pozwoli mi lepiej kontrolować wydatki.
+- **US10**: (Opcje Płatności) Jako klient, chcę mieć różne opcje płatności, w tym możliwość przerwania transakcji, płatności opóźnione, płatności mobilne oraz używania kart lojalnościowych, co da mi swobodę wyboru najwygodniejszej metody płatności.
 
-**Wybór Paliwa:**
+#### Epic: Korzystanie z Promocji
+- **US11**: (Aktywacja Kuponów) Jako klient, chcę wprowadzać kody kuponów przed dokonaniem płatności, co umożliwi automatyczne odjęcie ich wartości od sumy do zapłaty, zapewniając mi korzystanie z dostępnych promocji.
 
-7. **US7**: Jako klient, chcę widzieć listę paliw wraz z ich cenami i korzyściami z wyboru paliw premium, aby móc świadomie zdecydować, jakie paliwo tankować.
+#### Epic: Informacje o Produktach
+- **US12**: (Informacje o Paliwie) Jako klient, chcę mieć możliwość sprawdzenia składu chemicznego paliw oraz ich pochodzenia, aby dokonać bardziej świadomego wyboru paliwa zgodnego z moimi wartościami ekologicznymi i potrzebami pojazdu.
 
-**Wybór Sposobu Tankowania:**
+#### Epic: Personalizacja Doświadczenia
+- **US13**: (Ulubione Stacje) Jako klient, chcę móc zapisywać ulubione stacje paliw, aby szybko do nich nawigować w przyszłości, co ułatwi mi planowanie podróży i tankowanie na zaufanych stacjach.
+- **US14**: (Zgłaszanie Problemów) Jako klient, chcę mieć możliwość zgłaszania problemów związanych ze stacjami paliw bezpośrednio przez aplikację, np. nieprawidłowe działanie dystrybutora, co pozwoli na szybką reakcję obsługi i podniesienie jakości usług.
+- **US15**: (Recenzje i Opinie) Jako klient, chcę czytać oraz dodawać recenzje i opinie na temat stacji paliw, co pozwoli mi na podjęcie lepszej decyzji, gdzie tankować, oraz podzielenie się moimi doświadczeniami z innymi użytkownikami aplikacji.
 
-8. **US8**: Jako klient, chcę wybrać sposób tankowania (automatyczny czy manualny) z dostępnymi instrukcjami, aby proces tankowania był jak najbardziej komfortowy i dostosowany do moich potrzeb.
 
-**Historia Płatności:**
+## Poziom Operatora
 
-9. **US9**: Jako klient, chcę mieć dostęp do historii płatności, w tym daty i kwot transakcji oraz rodzaju zatankowanego paliwa, co pozwoli mi lepiej kontrolować wydatki.
+### Initiative: Ulepszenie Procesów Wewnętrznych
 
-**Płatność:**
+#### Epic: Usprawnienie Fakturowania
+- **US16**: (Generowanie Faktur) Jako operator, chcę mieć możliwość przeglądania wszystkich transakcji w danym okresie czasu i generowania z nich faktur, co umożliwi mi szybkie i efektywne zarządzanie dokumentacją sprzedażową.
+- **US17**: (Automatyzacja Fakturowania) Oczekuję funkcjonalności automatycznego wysyłania faktur do klientów poprzez media takie jak e-mail lub fax, co zminimalizuje potrzebę manualnej interwencji i usprawni proces obsługi klienta.
+- **US18**: (Zarządzanie Fakturami) Chcę mieć opcję ręcznego tworzenia oraz edytowania faktur, aby móc dokonywać korekt i dostosowań faktur zgodnie z wymaganiami klientów i sytuacją faktyczną.
 
-10. **US10**: Jako klient, chcę mieć różne opcje płatności, w tym możliwość przerwania transakcji, płatności opóźnione, płatności mobilne oraz używania kart lojalnościowych, co da mi swobodę wyboru najwygodniejszej metody płatności.
+#### Epic: Monitoring i Analiza Zapasów Paliw
+- **US19**: (Wgląd w Zapasy Paliw) Chcę mieć wgląd w stan zbiorników paliwa, możliwość wyświetlenia listy zmian ilości paliwa, dostęp do wykresów tendencji spadkowej/wzrostowej oraz wgląd w godzinowe zapotrzebowanie na paliwo, co pozwoli mi na lepsze planowanie zakupów paliwa i zarządzanie zapasami.
+- **US20**: (Analiza Danych Sprzedażowych) Oczekuję możliwości podglądu statystyk rocznych dotyczących sprzedaży i zapotrzebowania, co pomoże mi w analizie trendów i optymalizacji działalności.
 
-**Aktywacja Kuponów:**
+### Initiative: Poprawa Bezpieczeństwa i Utrzymania Stacji
 
-11. **US11**: Jako klient, chcę wprowadzać kody kuponów przed dokonaniem płatności, co umożliwi automatyczne odjęcie ich wartości od sumy do zapłaty, zapewniając mi korzystanie z dostępnych promocji.
+#### Epic: Zarządzanie Przeglądami i Konserwacją
+- **US21**: (Przypomnienia Konserwacyjne) Chcę mieć możliwość ustawienia przypomnień o rutynowych czynnościach konserwacyjnych i przeglądach stacji, aby zapewnić ciągłą sprawność urządzeń i infrastruktury, co przyczyni się do podniesienia bezpieczeństwa i jakości obsługi klienta.
+- **US22**: (System Alerty) Oczekuję, że system będzie wysyłał powiadomienia o nadchodzących terminach płatności, ważnych datach dotyczących umów z dostawcami i innych krytycznych wydarzeniach operacyjnych, co pozwoli mi na lepsze zarządzanie zobowiązaniami i relacjami biznesowymi.
+- **US23**: (Reagowanie na Awaryjne Sytuacje) Potrzebuję funkcji aktywnego wykrywania zdarzeń na stacji, takich jak zderzenia, wypadki, automatyczne wykrywanie wycieków lub zabrudzeń na nawierzchni, oraz automatycznego wzywania służb ratunkowych po wykryciu zagrożenia pożarowego, co zapewni szybką reakcję w sytuacjach awaryjnych i zwiększy bezpieczeństwo użytkowników stacji.
 
-**Sprawdzanie Informacji o Paliwie:**
+### Initiative: Rozwój i Zarządzanie Ofertą Stacji
 
-12. **US12**: Jako klient, chcę mieć możliwość sprawdzenia składu chemicznego paliw oraz ich pochodzenia, aby dokonać bardziej świadomego wyboru paliwa zgodnego z moimi wartościami ekologicznymi i potrzebami pojazdu.
+#### Epic: Promocje i Lojalność Klientów
+- **US24**: (Zarządzanie Promocjami) Jako operator, chcę mieć możliwość szybkiego dodawania, modyfikacji oraz usuwania promocji i rabatów oferowanych klientom, aby zachęcić ich do częstszych wizyt i zwiększyć lojalność.
 
-**Zapisywanie Ulubionych Stacji:**
+#### Epic: Utrzymanie i Rozwój Infrastruktury
+- **US25**: (Zarządzanie Zasobami Stacji) Chcę mieć możliwość monitorowania i zarządzania zasobami stacji, takimi jak dostępność myjni, stan techniczny urządzeń, czy dostępność poszczególnych typów paliw, aby zapewnić ciągłość i jakość świadczonych usług.
 
-13. **US13**: Jako klient, chcę móc zapisywać ulubione stacje paliw, aby szybko do nich nawigować w przyszłości, co ułatwi mi planowanie podróży i tankowanie na zaufanych stacjach.
+#### Epic: Szkolenie i Rozwój Personelu
+- **US26**: (Programy Szkoleniowe dla Personelu) Oczekuję dostępu do platformy szkoleniowej dla personelu, aby mogli oni regularnie podnosić swoje kwalifikacje i zapewniać klientom profesjonalną obsługę zgodną z aktualnymi standardami bezpieczeństwa i obsługi klienta.
 
-**Zgłaszanie Problemów:**
+#### Epic: Analityka Biznesowa i Optymalizacja Oferty
+- **US27**: (Narzędzia Raportowania i Analiz) Chcę mieć dostęp do zaawansowanych narzędzi raportowania i analiz, które umożliwią mi szczegółowe śledzenie wyników sprzedaży, efektywności promocji, oraz zrozumienie zachowań i preferencji klientów, co pozwoli mi na lepsze dostosowanie oferty do ich potrzeb.
 
-14. **US14**: Jako klient, chcę mieć możliwość zgłaszania problemów związanych ze stacjami paliw bezpośrednio przez aplikację, np. nieprawidłowe działanie dystrybutora, co pozwoli na szybką reakcję obsługi i podniesienie jakości usług.
-
-**Recenzje i Opinie:**
-
-15. **US15**: Jako klient, chcę czytać oraz dodawać recenzje i opinie na temat stacji paliw, co pozwoli mi na podjęcie lepszej decyzji, gdzie tankować, oraz podzielenie się moimi doświadczeniami z innymi użytkownikami aplikacji.
-
-### Poziom Operatora
-
-**Fakturowanie:**
-- **US13**: Jako operator, chcę mieć możliwość przeglądania wszystkich transakcji w danym okresie czasu i generowania z nich faktur, co umożliwi mi szybkie i efektywne zarządzanie dokumentacją sprzedażową.
-- **US14**: Oczekuję funkcjonalności automatycznego wysyłania faktur do klientów poprzez media takie jak e-mail lub fax, co zminimalizuje potrzebę manualnej interwencji i usprawni proces obsługi klienta.
-- **US15**: Chcę mieć opcję ręcznego tworzenia oraz edytowania faktur, aby móc dokonywać korekt i dostosowań faktur zgodnie z wymaganiami klientów i sytuacją faktyczną.
-
-**Sprawdzenie Historii Tankowań Stacji:**
-- **US16**: Chcę mieć wgląd w stan zbiorników paliwa, możliwość wyświetlenia listy zmian ilości paliwa, dostęp do wykresów tendencji spadkowej/wzrostowej oraz wgląd w godzinowe zapotrzebowanie na paliwo, co pozwoli mi na lepsze planowanie zakupów paliwa i zarządzanie zapasami.
-- **US17**: Oczekuję możliwości podglądu statystyk rocznych dotyczących sprzedaży i zapotrzebowania, co pomoże mi w analizie trendów i optymalizacji działalności.
-
-**Przypomnienia i Alerty:**
-- **US18**: Chcę mieć możliwość ustawienia przypomnień o rutynowych czynnościach konserwacyjnych i przeglądach stacji, aby zapewnić ciągłą sprawność urządzeń i infrastruktury, co przyczyni się do podniesienia bezpieczeństwa i jakości obsługi klienta.
-- **US19**: Oczekuję, że system będzie wysyłał powiadomienia o nadchodzących terminach płatności, ważnych datach dotyczących umów z dostawcami i innych krytycznych wydarzeniach operacyjnych, co pozwoli mi na lepsze zarządzanie zobowiązaniami i relacjami biznesowymi.
-- **US20**: Potrzebuję funkcji aktywnego wykrywania zdarzeń na stacji, takich jak zderzenia, wypadki, automatyczne wykrywanie wycieków lub zabrudzeń na nawierzchni, oraz automatycznego wzywania służb ratunkowych po wykryciu zagrożenia pożarowego, co zapewni szybką reakcję w sytuacjach awaryjnych i zwiększy bezpieczeństwo użytkowników stacji.
-
-**Zarządzanie Promocjami:**
-- **US21**: Jako operator, chcę mieć możliwość szybkiego dodawania, modyfikacji oraz usuwania promocji i rabatów oferowanych klientom, aby zachęcić ich do częstszych wizyt i zwiększyć lojalność.
-
-**Zarządzanie Zasobami Stacji:**
-- **US22**: Chcę mieć możliwość monitorowania i zarządzania zasobami stacji, takimi jak dostępność myjni, stan techniczny urządzeń, czy dostępność poszczególnych typów paliw, aby zapewnić ciągłość i jakość świadczonych usług.
-
-**Szkolenia dla Personelu:**
-- **US23**: Oczekuję dostępu do platformy szkoleniowej dla personelu, aby mogli oni regularnie podnosić swoje kwalifikacje i zapewniać klientom profesjonalną obsługę zgodną z aktualnymi standardami bezpieczeństwa i obsługi klienta.
-
-**Raportowanie i Analizy:**
-- **US24**: Chcę mieć dostęp do zaawansowanych narzędzi raportowania i analiz, które umożliwią mi szczegółowe śledzenie wyników sprzedaży, efektywności promocji, oraz zrozumienie zachowań i preferencji klientów, co pozwoli mi na lepsze dostosowanie oferty do ich potrzeb.
 
 ## Ustalanie priorytetów: (9)
 
