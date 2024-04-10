@@ -131,6 +131,7 @@ Ta szczegółowa analiza pozwala zrozumieć, jak system ma integrować i automat
 - Personalizacja usług na podstawie historii tankowań i preferencji użytkowników.
 
 ### Obsługa Klienta i Interaktywność:
+- Zautomatyzowany system tankowania (automatyzacja przy użyciu robotow firmy BostonDinamics)
 - Interaktywne kioski do samoobsługowej płatności.
 - Zintegrowany system wsparcia klienta w aplikacji mobilnej.
 - Funkcja oceny jakości usług przez użytkowników.
