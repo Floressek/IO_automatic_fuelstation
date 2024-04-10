@@ -159,7 +159,6 @@ Ta szczegółowa analiza pozwala zrozumieć, jak system ma integrować i automat
 
 ## Lista Wymagań niefunkcjonalnych:
 
-
 ### Dostępność/Niezawodność:
 - aplikacja ma być dostępna dostępna przez 99.999% w roku
 - aplikacja będzie dostępna przez określoną ilość lat
@@ -187,7 +186,7 @@ Ta szczegółowa analiza pozwala zrozumieć, jak system ma integrować i automat
 - Spełnienie wszystkich obowiązujących wymogów prawnych i regulacyjnych 
 związanych z działalnością stacji paliw oraz przetwarzaniem danych osobowych.
 
-## Identyfikacja aktorów:
+## Identyfikacja aktorów: (7)
 ### Klient(Kluczowy Odbiorca)
 Opis: 
 Klienci stacji benzynowej bezdotykowej to osoby korzystające z pojazdów, które cenią sobie wygodę, 
@@ -237,8 +236,90 @@ Opis:
 Platforma reklamowa integrująca się z systemem stacji paliw w celu wyświetlania 
 spersonalizowanych reklam klientom podczas korzystania ze stacji. Interakcje: 
 - Dostarczanie danych dla spersonalizowanych kampanii reklamowych, analiza skuteczności reklam.
+## User - Story (8):
+FINALNIE:
 
-## Ustalanie priorytetów:
+### Poziom Klienta
+
+**Logowanie:**
+1. **US1**: Jako klient, chcę, by aplikacja prosiła mnie o wprowadzenie adresu e-mail jako loginu, co umożliwi mi bezpieczne logowanie się do konta.
+2. **US2**: Jako klient, chcę, by aplikacja prosiła o wprowadzenie hasła, dla dodatkowego zabezpieczenia, zapewniając, że dostęp do mojego konta mają tylko upoważnione osoby.
+3. **US3**: Jako klient, chcę móc nacisnąć przycisk "Zaloguj się", aby po potwierdzeniu moich danych przejść do głównego menu aplikacji, co zapewni mi szybki dostęp do wszystkich funkcji.
+4. **US4**: Jako klient, oczekuję możliwości odzyskania hasła lub stworzenia nowego konta bezpośrednio z ekranu logowania, co zapewni mi łatwy dostęp do aplikacji nawet w przypadku zapomnienia hasła.
+
+**Powiadomienia Push:**
+
+5. **US5**: Jako klient, chcę otrzymywać spersonalizowane powiadomienia push o lokalizacji stacji, promocjach czy zmianach cen, aby być na bieżąco z ofertami, które mogą mnie interesować.
+
+**Znajdowanie Stacji:**
+
+6. **US6**: Jako klient, chcę wyszukiwać stacje na mapie, znać ilość kolejki i mieć możliwość nawigacji, co umożliwi mi szybkie znalezienie najbliższej stacji i ocenę, czy warto do niej podjechać.
+
+**Wybór Paliwa:**
+
+7. **US7**: Jako klient, chcę widzieć listę paliw wraz z ich cenami i korzyściami z wyboru paliw premium, aby móc świadomie zdecydować, jakie paliwo tankować.
+
+**Wybór Sposobu Tankowania:**
+
+8. **US8**: Jako klient, chcę wybrać sposób tankowania (automatyczny czy manualny) z dostępnymi instrukcjami, aby proces tankowania był jak najbardziej komfortowy i dostosowany do moich potrzeb.
+
+**Historia Płatności:**
+
+9. **US9**: Jako klient, chcę mieć dostęp do historii płatności, w tym daty i kwot transakcji oraz rodzaju zatankowanego paliwa, co pozwoli mi lepiej kontrolować wydatki.
+
+**Płatność:**
+
+10. **US10**: Jako klient, chcę mieć różne opcje płatności, w tym możliwość przerwania transakcji, płatności opóźnione, płatności mobilne oraz używania kart lojalnościowych, co da mi swobodę wyboru najwygodniejszej metody płatności.
+
+**Aktywacja Kuponów:**
+
+11. **US11**: Jako klient, chcę wprowadzać kody kuponów przed dokonaniem płatności, co umożliwi automatyczne odjęcie ich wartości od sumy do zapłaty, zapewniając mi korzystanie z dostępnych promocji.
+
+**Sprawdzanie Informacji o Paliwie:**
+
+12. **US12**: Jako klient, chcę mieć możliwość sprawdzenia składu chemicznego paliw oraz ich pochodzenia, aby dokonać bardziej świadomego wyboru paliwa zgodnego z moimi wartościami ekologicznymi i potrzebami pojazdu.
+
+**Zapisywanie Ulubionych Stacji:**
+
+13. **US13**: Jako klient, chcę móc zapisywać ulubione stacje paliw, aby szybko do nich nawigować w przyszłości, co ułatwi mi planowanie podróży i tankowanie na zaufanych stacjach.
+
+**Zgłaszanie Problemów:**
+
+14. **US14**: Jako klient, chcę mieć możliwość zgłaszania problemów związanych ze stacjami paliw bezpośrednio przez aplikację, np. nieprawidłowe działanie dystrybutora, co pozwoli na szybką reakcję obsługi i podniesienie jakości usług.
+
+**Recenzje i Opinie:**
+
+15. **US15**: Jako klient, chcę czytać oraz dodawać recenzje i opinie na temat stacji paliw, co pozwoli mi na podjęcie lepszej decyzji, gdzie tankować, oraz podzielenie się moimi doświadczeniami z innymi użytkownikami aplikacji.
+
+### Poziom Operatora
+
+**Fakturowanie:**
+- **US13**: Jako operator, chcę mieć możliwość przeglądania wszystkich transakcji w danym okresie czasu i generowania z nich faktur, co umożliwi mi szybkie i efektywne zarządzanie dokumentacją sprzedażową.
+- **US14**: Oczekuję funkcjonalności automatycznego wysyłania faktur do klientów poprzez media takie jak e-mail lub fax, co zminimalizuje potrzebę manualnej interwencji i usprawni proces obsługi klienta.
+- **US15**: Chcę mieć opcję ręcznego tworzenia oraz edytowania faktur, aby móc dokonywać korekt i dostosowań faktur zgodnie z wymaganiami klientów i sytuacją faktyczną.
+
+**Sprawdzenie Historii Tankowań Stacji:**
+- **US16**: Chcę mieć wgląd w stan zbiorników paliwa, możliwość wyświetlenia listy zmian ilości paliwa, dostęp do wykresów tendencji spadkowej/wzrostowej oraz wgląd w godzinowe zapotrzebowanie na paliwo, co pozwoli mi na lepsze planowanie zakupów paliwa i zarządzanie zapasami.
+- **US17**: Oczekuję możliwości podglądu statystyk rocznych dotyczących sprzedaży i zapotrzebowania, co pomoże mi w analizie trendów i optymalizacji działalności.
+
+**Przypomnienia i Alerty:**
+- **US18**: Chcę mieć możliwość ustawienia przypomnień o rutynowych czynnościach konserwacyjnych i przeglądach stacji, aby zapewnić ciągłą sprawność urządzeń i infrastruktury, co przyczyni się do podniesienia bezpieczeństwa i jakości obsługi klienta.
+- **US19**: Oczekuję, że system będzie wysyłał powiadomienia o nadchodzących terminach płatności, ważnych datach dotyczących umów z dostawcami i innych krytycznych wydarzeniach operacyjnych, co pozwoli mi na lepsze zarządzanie zobowiązaniami i relacjami biznesowymi.
+- **US20**: Potrzebuję funkcji aktywnego wykrywania zdarzeń na stacji, takich jak zderzenia, wypadki, automatyczne wykrywanie wycieków lub zabrudzeń na nawierzchni, oraz automatycznego wzywania służb ratunkowych po wykryciu zagrożenia pożarowego, co zapewni szybką reakcję w sytuacjach awaryjnych i zwiększy bezpieczeństwo użytkowników stacji.
+
+**Zarządzanie Promocjami:**
+- **US21**: Jako operator, chcę mieć możliwość szybkiego dodawania, modyfikacji oraz usuwania promocji i rabatów oferowanych klientom, aby zachęcić ich do częstszych wizyt i zwiększyć lojalność.
+
+**Zarządzanie Zasobami Stacji:**
+- **US22**: Chcę mieć możliwość monitorowania i zarządzania zasobami stacji, takimi jak dostępność myjni, stan techniczny urządzeń, czy dostępność poszczególnych typów paliw, aby zapewnić ciągłość i jakość świadczonych usług.
+
+**Szkolenia dla Personelu:**
+- **US23**: Oczekuję dostępu do platformy szkoleniowej dla personelu, aby mogli oni regularnie podnosić swoje kwalifikacje i zapewniać klientom profesjonalną obsługę zgodną z aktualnymi standardami bezpieczeństwa i obsługi klienta.
+
+**Raportowanie i Analizy:**
+- **US24**: Chcę mieć dostęp do zaawansowanych narzędzi raportowania i analiz, które umożliwią mi szczegółowe śledzenie wyników sprzedaży, efektywności promocji, oraz zrozumienie zachowań i preferencji klientów, co pozwoli mi na lepsze dostosowanie oferty do ich potrzeb.
+
+## Ustalanie priorytetów: (9)
 
 W celu ustalenia priorytetów zastosujemy metodę MoSCoW, dzieląc wymagania na:
 
