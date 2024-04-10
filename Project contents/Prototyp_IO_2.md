@@ -308,7 +308,7 @@ spersonalizowanych reklam klientom podczas korzystania ze stacji. Interakcje:
 - **US27**: (Narzędzia Raportowania i Analiz) Chcę mieć dostęp do zaawansowanych narzędzi raportowania i analiz, które umożliwią mi szczegółowe śledzenie wyników sprzedaży, efektywności promocji, oraz zrozumienie zachowań i preferencji klientów, co pozwoli mi na lepsze dostosowanie oferty do ich potrzeb.
 
 
-## Ustalanie priorytetów: (9) - MoSCoW
+## Ustalanie priorytetów: (12) - MoSCoW
 
 ### Must have (Musi posiadać):
 
