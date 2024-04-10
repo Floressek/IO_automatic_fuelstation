@@ -156,7 +156,7 @@ Ta szczegółowa analiza pozwala zrozumieć, jak system ma integrować i automat
 - Elastyczność i skalowalność systemu.
 - Kompatybilność z różnymi systemami płatności elektronicznych.
 
-## Lista Wymagań niefunkjonalnych:
+## Lista Wymagań niefunkcjonalnych:
 
 
 ### Dostępność/Niezawodność:
