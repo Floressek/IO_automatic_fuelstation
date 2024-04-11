@@ -165,9 +165,7 @@ i lepszym zrozumieniu zakresu projektu.
 **Dalsze Wymagania i Oczekiwania**
 
 **Czasowniki:**
-- "minimalizować", "ofer
-
-ować", "wykorzystanie", "integracja", "rozwój", "implementacja", "pozwoli na", "diagnostyka", "reakcja", "minimalizowanie"
+- "minimalizować", "oferować", "wykorzystanie", "integracja", "rozwój", "implementacja", "pozwoli na", "diagnostyka", "reakcja", "minimalizowanie"
 
 **Rzeczowniki:**
 - "proces tankowania", "powrót na drogę", "algorytmy AI", "analiza danych", "ekologiczne inicjatywy", "tankowanie paliw alternatywnych", "ślad węglowy", "personalizacja doświadczeń klientów", "oferta 'FuelFuture'", "system monitorowania urządzeń", "awarie", "potrzeby konserwacyjne", "przestoje w dostępności dystrybutorów"
