@@ -383,55 +383,76 @@ Sprawdziłem, czy wszystkie Historie Użytkowników (User Stories) pokrywają wy
 | Personalizacja i Marketing | US16: Spersonalizowane Promocje | Dostępne są spersonalizowane promocje oparte na zachowaniach użytkowników, preferencjach i historii transakcji (Opcjonalnie). |
 |  | US17: Integracja z Google Ads | Wspierana jest integracja z Google Ads dla ukierunkowanej reklamy w ramach platformy (Opcjonalnie). |
 | Wirtualny Asystent i AI | US18: Wirtualny Asystent | Wirtualny asystent lub chatbot AI może poprawić interakcje z klientami i usprawnić komunikację między nimi a Twoim biznesem (Opcjonalnie). |
-| Analityka Biznesowa i Optymalizacja Oferty | US19: Szczegółowe Raportowanie | Dostępne są zaawansowane narzędzia raportowania, w tym trendy sprzedażowe, demografia użytkowników, wzorce zużycia paliwa
-
- i wydajność stacji, aby optymalizować ofertę i poprawić ogólną wydajność. |
+| Analityka Biznesowa i Optymalizacja Oferty | US19: Szczegółowe Raportowanie | Dostępne są zaawansowane narzędzia raportowania, w tym trendy sprzedażowe, demografia użytkowników, wzorce zużycia paliwa i wydajność stacji, aby optymalizować ofertę i poprawić ogólną wydajność. |
 | Zaawansowane Personalizacje i Funkcje Promocyjne | US20: Zaawansowana Personalizacja | Dynamiczne ustalanie cen, spersonalizowane oferty i ukierunkowany marketing nie są dostępne, ale zapewniona jest solidna podstawa dla przyszłych usprawnień (Opcjonalnie). |
 | Integracja z zewnętrznymi usługami | US21: Integracje z Stronami Trzecimi | Zaawansowane integracje z zewnętrznymi usługami (Google Maps, Google Analytics) nie są włączone w tej wersji, ale platforma pozostaje elastyczna na przyszłe dodatki. |
 
 ## Ustalanie priorytetów: (12) - MoSCoW
+Oto przygotowane priorytetyzacje metodą MoSCoW dla przedstawionych epików i opisanych user story. Poniższa klasyfikacja może służyć jako punkt wyjścia do dalszych dyskusji i doprecyzowania wymagań w ramach projektu.
 
-### Must have (Musi posiadać):
+### Must Have (Musi posiadać)
 
-#### Epic: Lokalizacja i Rezerwacja Stacji
-- US01: (Geolocation and Station Search) Must have location services for users to find nearby gas stations.
-- US02: (Reservations) Must have the ability for users to reserve a specific tank or station, ensuring preferred service and reducing wait times.
+**Epic: Logowanie i Bezpieczeństwo**
+- **US1**: Logowanie - konieczność wprowadzenia adresu e-mail jako loginu.
+- **US2**: Bezpieczeństwo - wprowadzenie hasła dla zwiększenia bezpieczeństwa konta.
+- **US3**: Ułatwienie Dostępu - przycisk logowania umożliwiający szybki dostęp do funkcji.
 
-#### Epic: Płatnosć i Tankowanie
-- US03: (Payment Methods) Must have multiple payment options, including credit/debit cards, mobile wallets, and cash.
-- US04: (Fuel Selection) Must have the ability for users to choose their preferred fuel type (e.g., diesel or ethanol), tank method (automatic or manual), and nozzle format (handheld or robotic).
-- US05: (Vehicle Identification) Must have vehicle identification systems, like RFID/plates, to streamline the tanking experience by granting customers faster and more customized services.
-- US06: (Automated Facturing) Must include automated billing for smoother transactions and improved customer satisfaction.
+**Epic: Dostęp do Usług**
+- **US6**: Znajdowanie Stacji - wyszukiwanie stacji na mapie z informacją o kolejce i nawigacją.
+- **US7**: Wybór Paliwa - wyświetlanie listy paliw z cenami i korzyściami.
+- **US8**: Sposób Tankowania - wybór sposobu tankowania z instrukcjami.
 
-#### Epic: Panel Operatora i Raportowanie
-- US11: (Operator Dashboard) Must have an intuitive operator panel for managing multiple stations, including real-time tank statuses, user information, payment data, and station analytics.
+**Epic: Zarządzanie Finansami**
+- **US9**: Historia Płatności - dostęp do historii transakcji.
+- **US10**: Opcje Płatności - różne metody płatności dostosowane do potrzeb użytkownika.
 
-### Should have (Powinien posiadać):
+### Should Have (Powinien posiadać)
 
-#### Epic: Personalizacja i Wspieranie Klienta
-- US12: (User Profiles) Should support a comprehensive profile system for customers to access their own preferences and history with the service.
-- US13: (Integrated Support System) Should provide seamless customer support, including chat, email, phone, or even in-person assistance if needed.
-- US14: (Energy Optimization) Could have advanced energy optimization features to minimize waste and increase efficiency for both gas stations and users' vehicles.
-- US15: (Station Monitoring) Should include real-time monitoring of gas stations for issues, with alerts sent directly to operators when necessary.
+**Epic: Komunikacja z Klientem**
+- **US5**: Personalizowane Powiadomienia - informacje o lokalizacji stacji, promocjach, zmianach cen.
 
-### Could have (Mógłby posiadać w tej wersji):
+**Epic: Korzystanie z Promocji**
+- **US11**: Aktywacja Kuponów - wprowadzanie kodów kuponów przed płatnością.
 
-#### Epic: Personalizacja i Marketing
-- US16: (Personalized Promotions) Could include personalized promotions based on user behavior, preferences, and transaction history to increase engagement and retention.
-- US17: (Google Ads Integration) Could support integration with Google Ads, allowing targeted advertising within the platform.
+**Epic: Informacje o Produktach**
+- **US12**: Informacje o Paliwie - informacje o składzie chemicznym i pochodzeniu paliw.
 
-#### Epic: Wirtualny Asystent i AI
-- US18: (Virtual Assistant) Could introduce a virtual assistant or AI chatbot to improve customer interactions and streamline communication between them and your business.
+**Epic: Personalizacja Doświadczenia**
+- **US13**: Ulubione Stacje - możliwość zapisywania ulubionych stacji.
+- **US14**: Zgłaszanie Problemów - funkcja zgłaszania problemów przez aplikację.
+- **US15**: Recenzje i Opinie - dodawanie i czytanie recenzji stacji paliw.
 
-#### Epic: Analytika Biznesowa i Optymalizacja Oferty
-- US19: (Detailed Reporting) Could have detailed reporting tools, including sales trends, user demographics, fuel usage patterns, and station performance to optimize offerings and enhance overall performance.
+### Could Have (Mógłby posiadać)
 
-### Won't have (Nie będzie posiadać w tej wersji):
+**Epic: Usprawnienie Fakturowania**
+- **US16**: Generowanie Faktur - przeglądanie transakcji i generowanie faktur.
+- **US17**: Automatyzacja Fakturowania - automatyczne wysyłanie faktur do klientów.
+- **US18**: Zarządzanie Fakturami - ręczne tworzenie i edytowanie faktur.
 
-#### Epic: Zaawansowane Personalizacje i Funkcje Promocyjne
-- US20: (Advanced Personalization) Won't include advanced personalization features, such as dynamic pricing, tailored offers, and targeted marketing, but will provide a solid foundation for further enhancements in future versions.
+**Epic: Monitoring i Analiza Zapasów Paliw**
+- **US19**: Wgląd w Zapasy Paliw - dostęp do informacji o zapasach paliwa i analiza danych.
+- **US20**: Analiza Danych Sprzedażowych - podgląd statystyk rocznych dotyczących sprzedaży.
 
-#### Epic: Integracja z zewnętrznymi usługami
-- US21: (Third Party Integrations) Won't have advanced third-party integrations, such as Google Maps, Google Analytics, or other external systems to support a more comprehensive vision and value proposition. However, the platform will remain flexible enough for future additions.
+**Epic: Zarządzanie Przeglądami i Konserwacją**
+- **US21**: Przypomnienia Konserwacyjne - ustawienie przypomnień o konserwacjach.
+- **US22**: System Alerty - powiadomienia o ważnych datach i zobowiązaniach.
+- **US23**: Reagowanie na Awaryjne Sytuacje - wykrywanie zdarzeń i szybkie reagowanie.
 
+**Epic: Promocje i Lojalność Klientów**
+- **US24**: Zarządzanie Promocjami - dodawanie, modyfikacja, usuwanie promocji.
+
+**Epic: Utrzymanie i Rozwój Infrastruktury**
+- **US25**: Zarządzanie Zasobami Stacji - monitorowanie i zarządzanie zasobami stacji.
+
+**Epic: Szkolenie i Rozwój Personelu**
+- **US26**: Programy Szkoleniowe dla Personelu - dostęp do szkoleń dla person
+
+elu.
+
+**Epic: Analityka Biznesowa i Optymalizacja Oferty**
+- **US27**: Narzędzia Raportowania i Analiz - dostęp do narzędzi do analizy danych i raportowania.
+
+### Won't Have (Nie będzie posiadać)
+
+W tej kategorii nie zostały zidentyfikowane żadne funkcje, które świadomie zostaną pominięte w aktualnej wersji, ale warto dodać tę kategorię, aby ewentualnie przypisać do niej funkcje, które zostaną wykluczone po dalszej analizie potrzeb użytkowników.
 
