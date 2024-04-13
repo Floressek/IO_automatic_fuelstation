@@ -8,7 +8,7 @@ bez potrzeby interakcji z personelem.
 
 ### Moduł Obsługi Klienta (Wewnętrzne)
 1. Aplikacja mobilna umożliwiająca lokalizowanie najbliższych stacji, rezerwację dystrybutorów i dokonywanie płatności.
-2. System identyfikacji pojazdów przy użyciu technologii RFID oraz rozpoznawania tablic rejestracyjnych.
+2. System identyfikacji pojazdów oraz rozpoznawanie tablic rejestracyjnych.
 3. Automatyczne fakturowanie i cyfrowe paragony wysyłane bezpośrednio do aplikacji klienta.
 4. Personalizacja usług poprzez analizę historii tankowań i preferencji użytkowników, oferowanie spersonalizowanych promocji.
 5. Interaktywne kioski do samoobsługowej płatności dla klientów nieposiadających aplikacji.
