@@ -6,46 +6,42 @@ System ten ma na celu automatyzację wszystkich procesów związanych z obsług�
 Nasza wizja zakłada stworzenie nowej jakości usług w sektorze stacji paliw, gdzie klienci mogą korzystać z naszych usług w pełni automatycznie,
 bez potrzeby interakcji z personelem.
 
-### Moduł Obsługi Klienta (Wewnętrzne)
-1. Aplikacja mobilna umożliwiająca lokalizowanie najbliższych stacji, rezerwację dystrybutorów i dokonywanie płatności.
-2. System identyfikacji pojazdów oraz rozpoznawanie tablic rejestracyjnych.
-3. Automatyczne fakturowanie i cyfrowe paragony wysyłane bezpośrednio do aplikacji klienta.
-4. Personalizacja usług poprzez analizę historii tankowań i preferencji użytkowników, oferowanie spersonalizowanych promocji.
-5. Interaktywne kioski do samoobsługowej płatności dla klientów nieposiadających aplikacji.
-6. System wsparcia klienta zintegrowany z aplikacją, umożliwiający szybkie rozwiązywanie problemów i pytania użytkowników.
-7. Zaawansowane metody uwierzytelniania, Wprowadzenie biometrycznych metod uwierzytelniania
-8. Możliwość oceniania usług przez użytkowników: Umożliwienie klientom oceniania jakości usług i poszczególnych stacji, co 
-   może pomóc w poprawie standardów oraz zwiększyć zaufanie klientów poprzez transparentność.
-9. Wirtualny asystent AI do wsparcia klienta: Integracja chatbota wykorzystującego sztuczną inteligencję, który 
-   będzie w stanie na bieżąco odpowiadać na pytania użytkowników i pomagać w rozwiązywaniu problemów.
-10. Funkcjonalność umożliwiającą użytkownikom wybór preferowanej metody tankowania: zautomatyzowanej, z użyciem robota do tankowania,
-   lub tradycyjnej, gdzie klient samodzielnie tankuje pojazd.
+### Moduł Obsługi Klienta
+1.	System identyfikacji pojazdów przy użyciu  rozpoznawania tablic rejestracyjnych.
+2.	Integracja z modułem księgowym oraz udostępnianie faktur i paragonów w aplikacji klienta.
+3.	Personalizacja usług poprzez analizę historii tankowań i preferencji użytkowników, oferowanie spersonalizowanych promocji.
+4.	Interaktywne kioski do samoobsługowej płatności dla klientów nieposiadających aplikacji.
+5.	System wsparcia klienta zintegrowany z aplikacją, umożliwiający szybkie rozwiązywanie problemów i pytania użytkowników.
+6.	Bezpieczne metody uwierzytelniania, w tym uwierzytelnianie biometryczne
+7.	Możliwość oceniania usług przez użytkowników: umożliwienie klientom oceniania jakości usług i poszczególnych stacji, co może pomóc w poprawie standardów oraz zwiększyć zaufanie klientów poprzez transparentność.
+8.	Wirtualny asystent AI do wsparcia klienta: chatbot wykorzystującego sztuczną inteligencję (LLM), który będzie w stanie na bieżąco odpowiadać na pytania użytkowników i pomagać w rozwiązywaniu problemów.
+9.	Funkcjonalność umożliwiająca użytkownikom wybór preferowanej metody tankowania: zautomatyzowanej, z użyciem robota do tankowania, lub tradycyjnej, gdzie klient samodzielnie tankuje pojazd.
 
-### Moduł Zarządzania Stacją (Zewnętrzne)
-1. Panel zarządzania dla operatorów stacji umożliwiający monitorowanie i kontrolę stanu dystrybutorów, poziomu paliw w zbiornikach i danych transakcyjnych.
-2. Automatyczne generowanie raportów sprzedaży, analizy efektywności promocji i preferencji klientów.
-3. System zarządzania zapasami i automatyczne zamawianie paliwa w oparciu o przewidywane zapotrzebowanie.
-4. Moduł bezpieczeństwa monitorujący stacje pod kątem potencjalnych awarii, wycieków oraz nieautoryzowanego dostępu.
-5. Integracja z systemami alarmowymi i powiadomieniami awaryjnymi, zapewniająca szybką reakcję na incydenty.
-6. Zarządzanie zużyciem energii: Optymalizacja zużycia energii na stacjach poprzez inteligentne zarządzanie oświetleniem, pompami i innymi urządzeniami,
-   co przyczynia się do obniżenia kosztów operacyjnych i wsparcia inicjatyw ekologicznych.
-7. Integracja z Google Ads dla spersonalizowanych reklam: Wykorzystanie danych z Google Ads przy podjeździe klienta do stacji, umożliwiające 
-   wyświetlanie spersonalizowanych reklam na ekranach stacji na podstawie historii wyszukiwania i preferencji, zwiększając skuteczność kampanii reklamowych.
+
+### Moduł Zarządzania Stacją
+1.	Panel zarządzania dla operatorów stacji umożliwiający monitorowanie i kontrolę stanu dystrybutorów, poziomu paliw w zbiornikach i danych transakcyjnych.
+2.	Automatyczne generowanie raportów sprzedaży, analizy efektywności promocji i preferencji klientów.
+3.	System zarządzania zapasami i automatyczne zamawianie paliwa w oparciu o przewidywane zapotrzebowanie.
+4.	Moduł bezpieczeństwa monitorujący stacje pod kątem potencjalnych awarii, wycieków oraz nieautoryzowanego dostępu.
+5.	Integracja z systemami alarmowymi i powiadomieniami awaryjnymi, zapewniająca szybką reakcję na incydenty.
+6.	Zarządzanie zużyciem energii: optymalizacja zużycia energii na stacjach poprzez inteligentne zarządzanie oświetleniem, pompami i innymi urządzeniami, co przyczynia się do obniżenia kosztów operacyjnych i wsparcia inicjatyw ekologicznych.
+7.	Integracja z Google Ads dla spersonalizowanych reklam: wykorzystanie danych z Google Ads przy podjeździe klienta do stacji, umożliwiające wyświetlanie spersonalizowanych reklam na ekranach stacji na podstawie historii wyszukiwania i preferencji, zwiększając skuteczność kampanii reklamowych.
+
 
 ### Wymagania Techniczne
-1. System powinien być oparty na architekturze mikrousług, z wykorzystaniem najnowszych technologii cloud computing.
-2. Wysoki poziom bezpieczeństwa danych, z zastosowaniem szyfrowania i zabezpieczeń przed nieautoryzowanym dostępem.
-3. Elastyczność i skalowalność systemu, umożliwiająca łatwą rozbudowę o nowe stacje paliw oraz funkcjonalności.
-4. Kompatybilność z różnymi systemami płatności elektronicznych i bankowości mobilnej.
-5. Możliwość integracji systemu z zewnętrznymi dostawcami usług, np. systemami zarządzania flotą pojazdów.
+1.	System powinien być oparty na architekturze mikrousług, możliwy do wdrożenia na platformach chmurowych wiodących dostawców.
+2.	Wysoki poziom bezpieczeństwa danych, z zastosowaniem szyfrowania i zabezpieczeń przed nieautoryzowanym dostępem.
+3.	Wysoką dostępność , elastyczność i skalowalność systemu, umożliwiająca łatwą rozbudowę o nowe stacje paliw oraz funkcjonalności.
+4.	Kompatybilność z różnymi systemami płatności elektronicznych i bankowości mobilnej.
+5.	API umożliwiające integrację systemu z systemami zewnętrznymi np. systemami zarządzania flotą pojazdów. 
 
 ### Przypadki Użycia (Use Cases)
-1. Rezerwacja dystrybutora i tankowanie przez klienta.
-2. Automatyczne rozliczenie transakcji i wysyłanie faktury do klienta.
-3. Zarządzanie promocjami i ofertami specjalnymi dla zarejestrowanych użytkowników.
-4. Monitorowanie stanu zbiorników paliw i automatyczne zamawianie dostaw.
-5. Integracja z systemami alarmowymi i powiadomieniami awaryjnymi, zapewniająca szybką reakcję na incydenty.
-6. Panel wystawiania faktur
+1.	Rezerwacja dystrybutora i tankowanie przez klienta.
+2.	Automatyczne rozliczenie transakcji i udostępnienie faktury / paragonu w aplikacji klienckiej.
+3.	Zarządzanie promocjami i ofertami specjalnymi dla zarejestrowanych użytkowników.
+4.	Monitorowanie stanu zbiorników paliw i automatyczne zamawianie dostaw.
+5.	Integracja z systemami alarmowymi i powiadomieniami awaryjnymi, zapewniająca szybką reakcję na incydenty.
+
 
 ### Dalsze Wymagania i Oczekiwania
 
@@ -77,7 +73,7 @@ i lepszym zrozumieniu zakresu projektu.
 
 **Moduł Obsługi Klienta (Wewnętrzne)**
 - ***Aplikacja mobilna umożliwiająca*** ***lokalizowanie*** najbliższych stacji, ***rezerwowanie*** dystrybutorów i ***dokonywanie*** płatności.
-- ***System identyfikacji*** pojazdów przy ***użyciu*** technologii RFID oraz ***rozpoznawania*** tablic rejestracyjnych.
+- ***System identyfikacji*** pojazdów przy ***użyciu*** ***rozpoznawania*** tablic rejestracyjnych.
 - ***Automatyczne fakturowanie*** i ***cyfrowe paragony wysyłane*** bezpośrednio do aplikacji klienta.
 - ***Personalizacja usług*** poprzez ***analizowanie*** historii tankowań i ***preferencji*** użytkowników, ***oferowanie*** spersonalizowanych promocji.
 - ***Interaktywne kioski do samoobsługowej płatności*** dla klientów nieposiadających aplikacji.
@@ -136,7 +132,7 @@ i lepszym zrozumieniu zakresu projektu.
 - "umożliwiająca", "identyfikacji", "automatyczne fakturowanie", "wysyłane", "personalizacja", "oferowanie", "integracja", "wybór", "lokalizowanie", "rezerwowanie", "dokonywanie", "analizowanie", "rozwiązywanie", "wprowadzenie", "oceniania", "pomagać", "umożliwiająca", "samodzielnie tankuje"
 
 **Rzeczowniki:**
-- "Aplikacja mobilna", "najbliższe stacje", "rezerwacja dystrybutorów", "dokonywanie płatności", "system identyfikacji pojazdów", "technologia RFID", "rozpoznawanie tablic rejestracyjnych", "cyfrowe paragony", "aplikacja klienta", "historia tankowań", "preferencje użytkowników", "spersonalizowane promocje", "interaktywne kioski", "samoobsługowa płatność", "system wsparcia klienta", "zaawansowane metody uwierzytelniania", "biometryczne metody uwierzytelniania", "ocenianie usług", "wirtualny asystent AI", "chatbot", "sztuczna inteligencja", "preferowana metoda tankowania", "robot do tankowania", "zautomatyzowane tankowanie", "tradycyjne tankowanie"
+- "Aplikacja mobilna", "najbliższe stacje", "rezerwacja dystrybutorów", "dokonywanie płatności", "system identyfikacji pojazdów", "rozpoznawanie tablic rejestracyjnych", "cyfrowe paragony", "aplikacja klienta", "historia tankowań", "preferencje użytkowników", "spersonalizowane promocje", "interaktywne kioski", "samoobsługowa płatność", "system wsparcia klienta", "zaawansowane metody uwierzytelniania", "biometryczne metody uwierzytelniania", "ocenianie usług", "wirtualny asystent AI", "chatbot", "sztuczna inteligencja", "preferowana metoda tankowania", "robot do tankowania", "zautomatyzowane tankowanie", "tradycyjne tankowanie"
 
 **Moduł Zarządzania Stacją (Zewnętrzne)**
 
@@ -180,7 +176,7 @@ Ta szczegółowa analiza pozwala zrozumieć, jak system ma integrować i automat
 - Dokonywanie płatności za paliwo.
 
 ### System Identyfikacji i Autentykacji:
-- Identyfikacja pojazdów przy użyciu technologii RFID.
+- Identyfikacja pojazdów
 - Rozpoznawanie tablic rejestracyjnych.
 - Automatyczne fakturowanie i wysyłanie cyfrowych paragonów.
 - Personalizacja usług na podstawie historii tankowań i preferencji użytkowników.
@@ -202,7 +198,7 @@ Ta szczegółowa analiza pozwala zrozumieć, jak system ma integrować i automat
 - Monitorowanie stacji pod kątem potencjalnych awarii i wycieków.
 - Integracja z systemami alarmowymi i powiadomieniami awaryjnymi.
 
-### Integracja i Reklama:
+### Reklama:
 - Integracja z Google Ads dla spersonalizowanych reklam.
 - Możliwość wyświetlania reklam na ekranach stacji.
 
@@ -215,46 +211,60 @@ Ta szczegółowa analiza pozwala zrozumieć, jak system ma integrować i automat
 ## Lista Wymagań niefunkcjonalnych:
 
 ### Dostępność/Niezawodność:
-- aplikacja ma być dostępna dostępna przez 99.999% w roku
-- aplikacja będzie dostępna przez określoną ilość lat
+- aplikacja ma być dostępna na poziomie 99.999% 
+- aplikacja będzie dostępna przez 10 lat
 
 ### Wydajność:
 - maksymalna ilość użytkowników korzystających z aplikacji jednocześnie,
 - maksymalna ilość czasu odpowiedzi aplikacji na zapytanie użytkownika,
-- sposób, w jaki aplikacja korzysta z zasobów sprzętowych
 
 ### Wsparcie:
-- maksymalny czas potrzebny do naprawienia błędów
-- sposób testowania
+- maksymalny czas potrzebny do naprawienia błędów (**patrz punkt pod spodem**)
 - dostępność wsparcia techniczego i serwisowego
 
+
+#### Klasyfikacja błędów:
+1. **Minor:** Małe błędy, które nie wpływają znacząco na działanie systemu, np. drobne błędy interfejsu użytkownika.
+2. **Major:** Błędy wpływające na funkcjonalność systemu, ale nie powodujące zatrzymania jego działania, np. problemy z integracją między modułami.
+3. **Critical:** Krytyczne błędy wpływające na działanie kluczowych funkcji systemu, np. błąd w systemie rozpoznawania tablic rejestracyjnych.
+4. **Fatal:** Błędy całkowicie unieruchamiające system lub jego kluczowe komponenty, np. awaria systemu zarządzania transakcjami.
+
+#### Maksymalne czasy naprawy:
+- **Minor:** 72 godziny
+- **Major:** 48 godzin
+- **Critical:** 24 godziny
+- **Fatal:** 4 godziny
+
+#### Kary umowne:
+Za każdą godzinę przekroczenia maksymalnego czasu naprawy, firma "PSO" może nałożyć kary umowne, której wysokość będzie zależeć od klasyfikacji błędu:
+- **Minor:** 100 USD za każdą godzinę przekroczenia
+- **Major:** 500 USD za każdą godzinę przekroczenia
+- **Critical:** 1,000 USD za każdą godzinę przekroczenia
+- **Fatal:** 5,000 USD za każdą godzinę przekroczenia
+
+To podejście pozwala na adekwatne reagowanie na potencjalne problemy i utrzymanie wysokiej jakości oraz niezawodności systemu.
+
 ### Bezpieczeństwo:
-- bezpieczeńśtwo przechowywania danych RODO
-- pożądane sposoby zabezpieczenia aplikacji
+- bezpieczeńśtwo przechowywania danych osobowych – zgodność z RODO
+- szyfrowana transmisja danych z wykorzystaniem TLS 1.3 dla ruchu zewnętrznego (aplikacja mobilna, kiosk, integracje z systemami zewnętrznymi)
+- pożądane sposoby zabezpieczenia aplikacji  (np. Uwierzytelnianie biometryczne, czy z wykorzystaniem, kont Google, Apple, czy portali społecznosciowych – z uwzględnieniem)
 
 ### Użytecznośc aplikacji
-- kolorystyka i design
-- skalowaność wyglądu do rozmiaru ekranu
-- kastominizacja wyglądu
+- kolorystyka i design zgodne z zasadami UI/UX
+- skalowaność wyglądu do rozmiaru ekranu zgodnie z zasadami Responsive Web Design
+- kastominizacja wyglądu poprzez stosowanie skórek
 
 ### Zgodność prawna i regulacyjna:
-- Spełnienie wszystkich obowiązujących wymogów prawnych i regulacyjnych 
-związanych z działalnością stacji paliw oraz przetwarzaniem danych osobowych.
+- •	Spełnienie wszystkich obowiązujących wymogów prawnych i regulacyjnych związanych z działalnością stacji paliw oraz przetwarzaniem danych osobowych(ex. RODO).
 
 ## Identyfikacja aktorów: (7)
 ### Klient(Kluczowy Odbiorca)
 Opis: 
-Klienci stacji benzynowej bezdotykowej to osoby korzystające z pojazdów, które cenią sobie wygodę, 
-szybkość i bezpieczeństwo przy tankowaniu. Mają kluczowe znaczenie dla projektu,
-ponieważ sukces biznesowy zależy od ich zadowolenia i lojalności.
-Są to osoby w różnym wieku, korzystające zarówno z pojazdów spalinowych, jak i elektrycznych, poszukujące efektywnych i nowoczesnych rozwiązań
-Interakcje:
-- Użycie Bezdotykowych Dystrybutorów Paliwa: Klienci korzystają z nowoczesnych, bezdotykowych dystrybutorów paliwa,
-   które umożliwiają tankowanie bez konieczności fizycznego dotykania urządzenia.
-  Interakcja odbywa się za pomocą aplikacji mobilnej lub systemów rozpoznawania pojazdów.
-    Plan Zaangażowania Klienta:
--System feedbacku i ciągłej poprawy: Implementacja mechanizmu zbierania opinii od klientów po wizycie na stacji,
-  co umożliwi bieżące dostosowywanie usług do ich potrzeb.
+Klienci stacji benzynowej bezdotykowej to osoby korzystające z pojazdów, które cenią sobie wygodę, szybkość i bezpieczeństwo przy tankowaniu. Mają kluczowe znaczenie dla projektu, ponieważ sukces biznesowy zależy od ich zadowolenia i lojalności. Są to osoby w różnym wieku, korzystające zarówno z pojazdów spalinowych, jak i elektrycznych, poszukujące efektywnych i nowoczesnych rozwiązań. Interakcje:
+- Użycie Bezdotykowych Dystrybutorów Paliwa: Klienci korzystają z nowoczesnych, bezdotykowych dystrybutorów paliwa, które umożliwiają tankowanie bez konieczności fizycznego dotykania urządzenia. Interakcja odbywa się za pomocą aplikacji mobilnej lub systemów rozpoznawania pojazdów. 
+Plan Zaangażowania Klienta: 
+- System  feedbacku i ciągłej poprawy: Implementacja mechanizmu zbierania opinii od klientów po wizycie na stacji, co umożliwi poprawę jakości usług i dostosowywanie do potrzeb klientów.
+
   
 ### Operator Stacji
 Opis: 
@@ -302,7 +312,7 @@ spersonalizowanych reklam klientom podczas korzystania ze stacji. Interakcje:
 - **US1**: (Logowanie) Jako klient, chcę, by aplikacja prosiła mnie o wprowadzenie adresu e-mail jako loginu, co umożliwi mi bezpieczne logowanie się do konta.
 - **US2**: (Bezpieczeństwo) Jako klient, chcę, by aplikacja prosiła o wprowadzenie hasła, dla dodatkowego zabezpieczenia, zapewniając, że dostęp do mojego konta mają tylko upoważnione osoby.
 - **US3**: (Ułatwienie Dostępu) Jako klient, chcę móc nacisnąć przycisk "Zaloguj się", aby po potwierdzeniu moich danych przejść do głównego menu aplikacji, co zapewni mi szybki dostęp do wszystkich funkcji.
-- **US4**: (Odzyskiwanie Konta) Jako klient, oczekuję możliwości odzyskania hasła lub stworzenia nowego konta bezpośrednio z ekranu logowania, co zapewni mi łatwy dostęp do aplikacji nawet w przypadku zapomnienia hasła.
+- **US4**: (Odzyskiwanie Konta) Jako klient, oczekuję możliwości odzyskania hasła lub stworzenia nowego konta  bezpośrednio z ekranu logowania, co zapewni mi łatwy dostęp do aplikacji nawet w przypadku zapomnienia hasła.
 
 #### Epic: Komunikacja z Klientem
 - **US5**: (Personalizowane Powiadomienia) Jako klient, chcę otrzymywać spersonalizowane powiadomienia push o lokalizacji stacji, promocjach czy zmianach cen, aby być na bieżąco z ofertami, które mogą mnie interesować.
@@ -333,9 +343,9 @@ spersonalizowanych reklam klientom podczas korzystania ze stacji. Interakcje:
 ### Initiative: Ulepszenie Procesów Wewnętrznych
 
 #### Epic: Usprawnienie Fakturowania
-- **US16**: (Generowanie Faktur) Jako operator, chcę mieć możliwość przeglądania wszystkich transakcji w danym okresie czasu i generowania z nich faktur, co umożliwi mi szybkie i efektywne zarządzanie dokumentacją sprzedażową.
+- **US16**: (Generowanie Faktur) Jako operator, chcę mieć możliwość przeglądania wszystkich transakcji w danym okresie czasu i generowania z nich faktur , co umożliwi mi szybkie i efektywne zarządzanie dokumentacją sprzedażową.
 - **US17**: (Automatyzacja Fakturowania) Oczekuję funkcjonalności automatycznego wysyłania faktur do klientów poprzez media takie jak e-mail lub fax, co zminimalizuje potrzebę manualnej interwencji i usprawni proces obsługi klienta.
-- **US18**: (Zarządzanie Fakturami) Chcę mieć opcję ręcznego tworzenia oraz edytowania faktur, aby móc dokonywać korekt i dostosowań faktur zgodnie z wymaganiami klientów i sytuacją faktyczną.
+- **US18**: (Zarządzanie Fakturami) Chcę mieć opcję ręcznego tworzenia oraz edytowania faktur, aby móc dokonywać korekt  i dostosowań faktur zgodnie z wymaganiami klientów i sytuacją faktyczną.
 
 #### Epic: Monitoring i Analiza Zapasów Paliw
 - **US19**: (Wgląd w Zapasy Paliw) Chcę mieć wgląd w stan zbiorników paliwa, możliwość wyświetlenia listy zmian ilości paliwa, dostęp do wykresów tendencji spadkowej/wzrostowej oraz wgląd w godzinowe zapotrzebowanie na paliwo, co pozwoli mi na lepsze planowanie zakupów paliwa i zarządzanie zapasami.
@@ -396,6 +406,7 @@ Oto przygotowane priorytetyzacje metodą MoSCoW dla przedstawionych epików i op
 - **US1**: Logowanie - konieczność wprowadzenia adresu e-mail jako loginu.
 - **US2**: Bezpieczeństwo - wprowadzenie hasła dla zwiększenia bezpieczeństwa konta.
 - **US3**: Ułatwienie Dostępu - przycisk logowania umożliwiający szybki dostęp do funkcji.
+- **US4**: Odzyskiwanie Konta - możliwości odzyskania hasła lub resetu hasła.
 
 **Epic: Dostęp do Usług**
 - **US6**: Znajdowanie Stacji - wyszukiwanie stacji na mapie z informacją o kolejce i nawigacją.
@@ -445,9 +456,7 @@ Oto przygotowane priorytetyzacje metodą MoSCoW dla przedstawionych epików i op
 - **US25**: Zarządzanie Zasobami Stacji - monitorowanie i zarządzanie zasobami stacji.
 
 **Epic: Szkolenie i Rozwój Personelu**
-- **US26**: Programy Szkoleniowe dla Personelu - dostęp do szkoleń dla person
-
-elu.
+- **US26**: Programy Szkoleniowe dla Personelu - dostęp do szkoleń dla personelu.
 
 **Epic: Analityka Biznesowa i Optymalizacja Oferty**
 - **US27**: Narzędzia Raportowania i Analiz - dostęp do narzędzi do analizy danych i raportowania.
