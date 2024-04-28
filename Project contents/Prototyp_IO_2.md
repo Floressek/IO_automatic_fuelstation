@@ -465,3 +465,64 @@ Oto przygotowane priorytetyzacje metodą MoSCoW dla przedstawionych epików i op
 
 W tej kategorii nie zostały zidentyfikowane żadne funkcje, które świadomie zostaną pominięte w aktualnej wersji, ale warto dodać tę kategorię, aby ewentualnie przypisać do niej funkcje, które zostaną wykluczone po dalszej analizie potrzeb użytkowników.
 
+
+## Analiza biznesowa (addition)
+Bardziej szczegółowe opisy procesów biznesowych związanych z projektem wdrożenia systemu dla bezobsługowych stacji paliw firmy "PSO". Oto dokładniejsze omówienie każdego z kluczowych procesów, które zostały zidentyfikowane w ramach tego projektu:
+
+### 1. Proces Identyfikacji i Autentykacji Klientów
+
+**Cel:** Zapewnienie szybkiego i bezpiecznego dostępu klientów do usług stacji.
+
+**Działania:**
+   - **Rozpoznawanie Tablic Rejestracyjnych:** Automatyczne identyfikowanie pojazdów wjeżdżających na stację poprzez kamery i oprogramowanie do rozpoznawania tablic.
+   - **Uwierzytelnianie Użytkowników Aplikacji Mobilnej:** Implementacja systemów uwierzytelniania, takich jak login i hasło, metody biometryczne (odcisk palca, rozpoznawanie twarzy).
+   - **Zarządzanie Dostępem:** Kontrola dostępu do różnych usług stacji na podstawie poziomu uwierzytelnienia.
+
+### 2. Proces Obsługi Transakcji Klienta
+
+**Cel:** Automatyzacja procesów sprzedaży i personalizacja oferty dla klientów.
+
+**Działania:**
+   - **Rezerwacja Dystrybutorów:** Możliwość rezerwacji dystrybutora paliwa przez aplikację mobilną, co umożliwia planowanie wizyty na stacji.
+   - **Automatyczne Rozliczenie Transakcji:** Generowanie i wysyłanie cyfrowych faktur oraz paragonów do aplikacji klienta po każdej transakcji.
+   - **Personalizacja Promocji:** Analiza danych zakupowych i preferencji klientów, aby oferować spersonalizowane promocje i rabaty.
+
+### 3. Proces Zarządzania Stacją Paliw
+
+**Cel:** Efektywne zarządzanie zasobami i operacjami na stacji paliw.
+
+**Działania:**
+   - **Monitorowanie Stanu Dystrybutorów i Zbiorników Paliw:** Użycie czujników i systemów monitorujących do śledzenia poziomów paliwa i stanu technicznego dystrybutorów.
+   - **Automatyczne Zamawianie Paliwa:** System przewidywania zapotrzebowania i automatycznego składania zamówień na paliwo w celu optymalizacji zapasów.
+   - **Zarządzanie Energią:** Implementacja rozwiązań do zarządzania zużyciem energii, takich jak inteligentne oświetlenie czy systemy zarządzania energią.
+
+### 4. Proces Zarządzania Bezpieczeństwem
+
+**Cel:** Zapewnienie bezpieczeństwa na stacji dla klientów i personelu.
+
+**Działania:**
+   - **Monitoring i Odpowiedź na Awaryjne Sytuacje:** Używanie kamer i sensorów do wykrywania potencjalnych awarii, wycieków czy nieautoryzowanego dostępu.
+   - **Integracja z Systemami Alarmowymi:** Szybka reakcja na incydenty dzięki automatycznym powiadomieniom awaryjnym i procedurom interwencyjnym.
+   - **Zarządzanie Dostępem i Kontrola:** Wdrożenie systemów kontrolujących dostęp do krytycznych zasobów stacji.
+
+### 5. Proces Marketingu i Reklamy
+
+**Cel:** Promocja stacji paliw i jej usług wśród potencjalnych klientów.
+
+**Działania:**
+   - **Personalizacja Reklam:** Wykorzystanie danych z Google Ads do tworzenia spersonalizowanych reklam, które są wyświetlane klientom w aplikacji i na ekranach na stacjach.
+   - **Zarządzanie Kampaniami Promocyjnymi:** Tworzenie i zarządzanie
+
+ kampaniami marketingowymi skierowanymi do określonych grup klientów.
+   - **Analiza Skuteczności Reklam:** Monitorowanie i analizowanie wyników kampanii reklamowych dla optymalizacji przyszłych działań.
+
+### 6. Proces Wsparcia i Obsługi Klienta
+
+**Cel:** Zapewnienie wsparcia i zadowolenia klientów poprzez szybkie i efektywne rozwiązywanie ich problemów.
+
+**Działania:**
+   - **Centrum Wsparcia w Aplikacji Mobilnej:** Udostępnianie klientom łatwego dostępu do wsparcia poprzez funkcje w aplikacji mobilnej.
+   - **Wirtualny Asystent AI:** Użycie technologii AI do zapewnienia bieżącego wsparcia i odpowiedzi na pytania klientów.
+   - **System Feedbacku:** Zbieranie i analizowanie opinii od klientów w celu ciągłego doskonalenia usług.
+
+Każdy z tych procesów jest niezwykle ważny dla skutecznego wdrożenia i działania systemu dla bezobsługowych stacji paliw, co może przyczynić się do zwiększenia efektywności, redukcji kosztów oraz poprawy satysfakcji klientów firmy "PSO".
