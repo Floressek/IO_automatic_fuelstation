@@ -511,9 +511,7 @@ Bardziej szczegółowe opisy procesów biznesowych związanych z projektem wdro�
 
 **Działania:**
    - **Personalizacja Reklam:** Wykorzystanie danych z Google Ads do tworzenia spersonalizowanych reklam, które są wyświetlane klientom w aplikacji i na ekranach na stacjach.
-   - **Zarządzanie Kampaniami Promocyjnymi:** Tworzenie i zarządzanie
-
- kampaniami marketingowymi skierowanymi do określonych grup klientów.
+   - **Zarządzanie Kampaniami Promocyjnymi:** Tworzenie i zarządzanie kampaniami marketingowymi skierowanymi do określonych grup klientów.
    - **Analiza Skuteczności Reklam:** Monitorowanie i analizowanie wyników kampanii reklamowych dla optymalizacji przyszłych działań.
 
 ### 6. Proces Wsparcia i Obsługi Klienta
