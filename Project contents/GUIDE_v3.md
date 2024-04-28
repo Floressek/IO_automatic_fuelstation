@@ -25,8 +25,6 @@ Niniejszy dokument szczegółowo opisuje elementy, które należy włączyć lub
 6. **Identyfikacja Procesów Biznesowych**
    - **Opis:** Zdefiniowanie ogólnych procesów biznesowych i określenie, które procesy występują w bieżącym projekcie oraz z czego się składają.
    - **Wymagania:** Przygotowanie biznesowego diagramu sekwencji jako opisu procesu biznesowego (1 diagram na członka zespołu; w przypadku zaangażowania tylko jednej osoby w ten podpunkt, wystarczy tylko 1 diagram z podpisem autora).
-   - **Linki Pomocnicze:**
-     - [Visual Paradigm Tools](https://it-consulting.pl//czym-pracuje-czyli-visual-paradigm/)
 
 7. **Identyfikacja Procesów Biznesowych** (cd.)
    - **Linki pomocnicze:**
