@@ -37,10 +37,12 @@ bez potrzeby interakcji z personelem.
 
 ### Przypadki Użycia (Use Cases)
 1.	Rezerwacja dystrybutora i tankowanie przez klienta.
-2.	Automatyczne rozliczenie transakcji i udostępnienie faktury / paragonu w aplikacji klienckiej.
-3.	Zarządzanie promocjami i ofertami specjalnymi dla zarejestrowanych użytkowników.
-4.	Monitorowanie stanu zbiorników paliw i automatyczne zamawianie dostaw.
-5.	Integracja z systemami alarmowymi i powiadomieniami awaryjnymi, zapewniająca szybką reakcję na incydenty.
+2.	Automatyczne / manualne tankowanie (przy pomoc aplikacji).
+3.	Protokoły automatycznego radzenia sobie z awariami / pożarami.
+4.	Automatyczne rozliczenie transakcji i udostępnienie faktury / paragonu w aplikacji klienckiej.
+5.	Zarządzanie promocjami i ofertami specjalnymi dla zarejestrowanych użytkowników.
+6.	Monitorowanie stanu zbiorników paliw i automatyczne zamawianie dostaw.
+7.	Integracja z systemami alarmowymi i powiadomieniami awaryjnymi, zapewniająca szybką reakcję na incydenty.
 
 
 ### Dalsze Wymagania i Oczekiwania
