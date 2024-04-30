@@ -80,9 +80,7 @@
 | Szymon Florek   | 1.4    | 2 kwietnia  | Doprecyzowanie Procesu Zarządzania Stacją Paliw    |
 | Maciej Klimiuk  | 1.5    | 5 kwietnia  | Wprowadzenie systemu Identyfikacji i Autentykacji  |
 | Szymon Florek   | 1.6    | 8 kwietnia  | Dodanie szczegółów do Procesu Obsługi Transakcji Klienta |
-| Maciej Klimiuk  | 1.7    | 11 kwietnia | Aktualiz
-
-acja wymagań dotyczących Bezpieczeństwa     |
+| Maciej Klimiuk  | 1.7    | 11 kwietnia | Aktualizacja wymagań dotyczących Bezpieczeństwa     |
 | Szymon Florek   | 1.8    | 15 kwietnia | Rozwinięcie sekcji MoSCoW                           |
 | Maciej Klimiuk  | 1.9    | 18 kwietnia | Dodanie Diagramów przypadków użycia                 |
 | Szymon Florek   | 2.0    | 18 kwietnia | Dodanie Diagramów USE CASE                          |
