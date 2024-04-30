@@ -87,7 +87,8 @@
 | Szymon Florek   | 2.1    | 18 kwietnia | Dodanie Diagramu sekwencji                          |
 | Maciej Klimiuk  | 2.2    | 19 kwietnia | Finalizacja sekcji User Story                       |
 | Szymon Florek   | 2.3    | 23 kwietnia | Ogólna rewizja i korekta dokumentu                   |
-| Maciej Klimiuk  | 2.4    | 24 maja     | Dodanie Diagramu aktywności                         |
+| Maciej Klimiuk  | 2.4    | 24 kwietnia    | Dodanie Diagramu aktywności                         |
+| Szymon Florek   | 2.5    | 27 kwietnia   | Dodanie elementow prototypu UI / analiza         |
 
 ---
 
